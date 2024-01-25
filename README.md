@@ -18,7 +18,7 @@ The group consists of one bridging program student, one student from the HAN, bu
 | Task  | Students |
 | ------------- | ------------- |
 | Designer  | [Daniëlla Lukic](mailto:6054781)  |
-| Programmers  | [Bram Snelten](mailto:5519365)<br>[Robert Wetzels] (mailto:5175550)]  |
+| Programmers  | [Bram Snelten](mailto:5519365)<br>[Robert Wetzels](mailto:5175550)]  |
 | Diagrammer  | [Karlijn Huissen](mailto:5920442) ]  |
 
 ## Website reading guide
