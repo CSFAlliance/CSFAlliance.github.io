@@ -22,3 +22,4 @@ The group consists of one bridging program student, one student from the HAN, bu
 | Diagrammer  | [Karlijn Huissen](mailto:5920442)  |
 
 ## Website reading guide
+This project repository serves as a showcase of our operational workflow, highlighting the  stages from Planning and Configuring to Massing, Forming, and reflective insights on our architectural endeavors.
