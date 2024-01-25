@@ -9,7 +9,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 # Planning 
 ## Proces 
 
-### design goals
+### Design goals
 
 ### Relationship between user and building
 
