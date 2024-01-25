@@ -7,6 +7,7 @@ The name of our group: CSF Alliance comes from, cyber sport fusion alliance. A c
 The group consists of one bridging program student, one student from the HAN, built environment, one student from electrical engineering and one student from computer science. 
 
 ## People: 
+
 | Instruction team  | Name |
 | ------------- | ------------- |
 | Course Coordinator  | [Hoogenboom, Ir. J.J.J.G.](mailto:J.J.J.G.Hoogenboom@tudelft.nl)  |
@@ -16,8 +17,8 @@ The group consists of one bridging program student, one student from the HAN, bu
 
 | Task  | Students |
 | ------------- | ------------- |
-| Designer  | [Daniëlla Lukic,6054781]  |
-| Programmers  | [Bram Snelten,5519365]<br>[Robert Wetzels,5175550]  |
-| Diagrammer  | [Karlijn Huissen,5920442]  |
+| Designer  | [Daniëlla Lukic 6054781]  |
+| Programmers  | [Bram Snelten 5519365]<br>[Robert Wetzels 5175550]  |
+| Diagrammer  | [Karlijn Huissen 5920442]  |
 
 ## Website reading guide
