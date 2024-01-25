@@ -7,7 +7,7 @@ The name of our group: CSF Alliance comes from, cyber sport fusion alliance. A c
 The group consists of one bridging program student, one student from the HAN, built environment, one student from electrical engineering and one student from computer science. 
 
 ## People: 
-width=100%>
+<table width=100%>
     <thead >
         <tr class="header">
             <th colspan="2">Instruction Team</th>
@@ -59,8 +59,6 @@ width=100%>
         </tr>
     </tbody>
 </table>
-
-               
 
 
 
