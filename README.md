@@ -19,7 +19,6 @@ Project readme
             <td>
                 <a href="mailto:J.J.J.G.Hoogenboom@tudelft.nl">Hoogenboom, Ir. J.J.J.G.</a><br>
                 <a href="I.S.Sariyildiz@tudelft.nl">Sariyildiz, prof.dr.ir. I.S.</a><br>
-                <a href="mailto:J.J.J.G.Hoogenboom@tudelft.nl">Ir. Hans Hoogenboom</a><br>
             </td>
          </tr>
     </tbody>
