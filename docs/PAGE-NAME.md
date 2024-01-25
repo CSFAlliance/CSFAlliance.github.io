@@ -1,6 +1,9 @@
+```yaml
 layout: page
 title: "voorbeeldpagina"
 permalink: /voorbeeld
+```
+
 
 # Issue XX - Month YYYY
 
