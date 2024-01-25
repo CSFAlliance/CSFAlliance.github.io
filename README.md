@@ -42,7 +42,7 @@ The group consists of one bridging program student, one student from the HAN, bu
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/shervinazadi/spatial_computing_18/tree/master/Arthouse">Programmer</a>
+                <a href="https://github.com/shervinazadi/spatial_computing_18/tree/master/Arthouse">Programmers</a>
             </td>
             <td>
                 Bram Snelten, 5519365 <br>
