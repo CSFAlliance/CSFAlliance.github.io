@@ -39,32 +39,19 @@ Project readme
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/shervinazadi/spatial_computing_18/tree/master/Arthouse">Arthouse</a>
+                <a href="https://github.com/shervinazadi/spatial_computing_18/tree/master/Arthouse">Programmer</a>
             </td>
             <td>
-                Marieke van Esch<br>
-                Pim Voermans<br>
-                Valerie van den Broek <br>
-                Laurens van Rijssel   
+                Bram Snelten, 5519365 
+                Robert Wetzels, 5175550
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/shervinazadi/spatial_computing_18/tree/master/Het_Gebouw">Het Gebouw</a>
+                <a href="https://github.com/shervinazadi/spatial_computing_18/tree/master/Het_Gebouw">Diagrammer</a>
             </td>
             <td>
-                Jasper van der Vaart <br>
-                Syed Baqir Ali Kazmi
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/shervinazadi/spatial_computing_18/tree/master/Piece_of_Cake">Piece of Cake</a>
-            </td>
-            <td>
-                Fé van Lookeren Campagne <br>
-                Ruben Schonewille <br>
-                Max Ketelaar
+                Karlijn Huissen, 5920442
             </td>
         </tr>
     </tbody>
