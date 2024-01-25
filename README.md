@@ -16,7 +16,7 @@ The group consists of one bridging program student, one student from the HAN, bu
     <tbody>
         <tr>
             <td>Course Coordinator</td>
-            <td><a href="mailto:	J.J.J.G.Hoogenboom@tudelft.nl">Hoogenboom, Ir. J.J.J.G.</a></td>
+            <td><a href="mailto:J.J.J.G.Hoogenboom@tudelft.nl">Hoogenboom, Ir. J.J.J.G.</a></td>
         </tr>
         <tr>
             <td>Instructors</td>
@@ -37,28 +37,8 @@ The group consists of one bridging program student, one student from the HAN, bu
                 <a href="https://github.com/shervinazadi/spatial_computing_18/tree/master/Accretio">Designer</a>
             </td>
             <td>
-                Daniëlla Lukic, 6054781
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/shervinazadi/spatial_computing_18/tree/master/Arthouse">Programmers</a>
-            </td>
-            <td>
-                Bram Snelten, 5519365 <br>
-                Robert Wetzels, 5175550
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/shervinazadi/spatial_computing_18/tree/master/Het_Gebouw">Diagrammer</a>
-            </td>
-            <td>
-                Karlijn Huissen, 5920442
-            </td>
-        </tr>
-    </tbody>
-</table>
+                Daniël
+
 
 
 ## Website reading guide
