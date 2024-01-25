@@ -1,2 +1,1 @@
-# Computational Design in Architecture
-# CSF Alliance
+Docs README
