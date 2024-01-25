@@ -43,6 +43,7 @@ Project readme
             </td>
             <td>
                 Bram Snelten, 5519365 
+            <td>
                 Robert Wetzels, 5175550
             </td>
         </tr>
