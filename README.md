@@ -42,8 +42,7 @@ Project readme
                 <a href="https://github.com/shervinazadi/spatial_computing_18/tree/master/Arthouse">Programmer</a>
             </td>
             <td>
-                Bram Snelten, 5519365 
-            </td>
+                Bram Snelten, 5519365 <br>
                 Robert Wetzels, 5175550
             </td>
         </tr>
