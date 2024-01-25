@@ -7,7 +7,7 @@ The name of our group: CSF Alliance comes from, cyber sport fusion alliance. A c
 The group consists of one bridging program student, one student from the HAN, built environment, one student from electrical engineering and one student from computer science. 
 
 ## People: 
-| Instruction Team |                            |
+|             Instruction Team                  |                                  
 |------------------|----------------------------|
 | Course Coordinator | [Hoogenboom, Ir. J.J.J.G.](mailto:J.J.J.G.Hoogenboom@tudelft.nl) |
 | Instructors      |  [Hoogenboom, Ir. J.J.J.G.](mailto:J.J.J.G.Hoogenboom@tudelft.nl)<br>[Sariyildiz, prof.dr.ir. I.S.](mailto:I.S.Sariyildiz@tudelft.nl) |
