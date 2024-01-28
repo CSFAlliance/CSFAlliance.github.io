@@ -1,4 +1,3 @@
-Project readme
 # Home
 This website was created for the  course Spatial Computing ( BK7083), as given at the faculty of Architecture and the Built Environment.
 
