@@ -77,6 +77,8 @@ This building is going to be mixed-use with the following usage functions:
 
 
 ### List of full spaces 
+The square meters in the table are based on average values for housing/restaurants/sports schools in Rotterdam/Netherlands. 
+
 | Function               | Amount | Area per unit (m2) | Voxels per unit (2.25 m2) | Total Area (m2) | Voxels (2.25 m2) |
 |------------------------|--------|---------------------|----------------------------|------------------|------------------|
 | Elderly units (assisted) | 100    | 60                  | 27                         | 6,000            | 2,700            |
