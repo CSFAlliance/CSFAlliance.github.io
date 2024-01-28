@@ -96,7 +96,7 @@ This building is going to be mixed-use with the following usage functions:
 
 
 ### Bubble diagram
-
+![Metro Diagram](docs/metrodiagram.png)
 
 
 ### Exterior context relationships
