@@ -88,14 +88,16 @@ This building is going to be mixed-use with the following usage functions:
 | Elderly care           | 1      | 850                 | 378                        | 850              | 378              |
 | Gym                    | 1      | 140                 | 63                         | 140              | 63               |
 | Restaurant             | 1      | 140                 | 63                         | 140              | 63               |
-| Laundromat             | 1      | 100                 | 45                         | 100              | 45               |
+| Laundry room             | 1      | 100                 | 45                         | 100              | 45               |
 | Car park               | 1      | 10,200              | 4,534                      | 10,200           | 4,534            |
 | Bicycle park           | 1      | 852                 | 379                        | 852              | 379              |
 | Main hall + mailboxes  | 1      | >100                | >45                        | >100             | >45              |
 | **Total**              | -      | -                   | -                          | >49,396          | >22,151          |
 
 
-### Metrodiagram 
+### Bubble diagram
+
+
 
 ### Exterior context relationships
 
