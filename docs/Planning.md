@@ -77,6 +77,23 @@ This building is going to be mixed-use with the following usage functions:
 
 
 ### List of full spaces 
+| Function               | Amount | Area per unit (m2) | Voxels per unit (2.25 m2) | Total Area (m2) | Voxels (2.25 m2) |
+|------------------------|--------|---------------------|----------------------------|------------------|------------------|
+| Elderly units (assisted) | 100    | 60                  | 27                         | 6,000            | 2,700            |
+| Elderly units (independent) | 100    | 85                  | 38                         | 8,500            | 3,800            |
+| Starter units          | 200    | 85                  | 38                         | 17,000           | 7,600            |
+| Student studios        | 100    | 25                  | 12                         | 2,500            | 1,200            |
+| 4 students shared      | 13     | 121                 | 54                         | 1,573            | 702              |
+| 8 students shared      | 6      | 240                 | 107                        | 1,440            | 642              |
+| Elderly care           | 1      | 850                 | 378                        | 850              | 378              |
+| Gym                    | 1      | 140                 | 63                         | 140              | 63               |
+| Restaurant             | 1      | 140                 | 63                         | 140              | 63               |
+| Laundromat             | 1      | 100                 | 45                         | 100              | 45               |
+| Car park               | 1      | 10,200              | 4,534                      | 10,200           | 4,534            |
+| Bicycle park           | 1      | 852                 | 379                        | 852              | 379              |
+| Main hall + mailboxes  | 1      | >100                | >45                        | >100             | >45              |
+| **Total**              | -      | -                   | -                          | >49,396          | >22,151          |
+
 
 ### Metrodiagram 
 
