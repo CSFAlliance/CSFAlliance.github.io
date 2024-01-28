@@ -7,6 +7,9 @@ remote_theme: pages-themes/cayman@v0.2.0
 
 
 # Forming 
+## Voxels
+
+
 ## Facades
 
 It aimed to create an interesting and appealing structure that radiates unity and creates a comfortable environment. 
@@ -22,12 +25,14 @@ The floors above are mostly expected to be housing. For these floors sunlight an
 
 (figures)
 
+These tiles all have a non-window side. These will be aimed at the main source of the noise and will have a sound-reducing material. The window will allow more noise into the room/building. Therefore this side of the facades will face the other way. Using the concept "if you can't see it, you can't hear it" allows less noise to enter the rooms through the windows. Although this creates lessened noise pollution, it has to be noted this won't fully resolve the noise problem per definition. Using plants for the top of the balcony railings will help improve temperature control and it creates a less industrial or concrete construction look. The greenery on the balcony might even help a little bit with noise reduction but this will be minimal.
 
 
 
 
-
-
+##
+##
+##
 **400 students units:**
 
 - 25% single student studio’s with bathroom and kitchen (min 25m^2)
