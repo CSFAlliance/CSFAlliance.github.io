@@ -94,15 +94,17 @@ This building is going to be mixed-use with the following usage functions:
 | Main hall + mailboxes  | 1      | >100                | >45                        | >100             | >45              |
 | **Total**              | -      | -                   | -                          | >49,396          | >22,151          |
 
+## Product
 
 ### Bubble diagram
+The bubble diagram shows which spaces are connected, and how important these connections are. Through the different colors and numbers, it can be read which connection is more important between certain spaces. 
 ![Metro Diagram](metrodiagram.png)
 
 
 
 ### Exterior context relationships
 
-## Product 
+ 
 
 
 
