@@ -82,9 +82,9 @@ This building is going to be mixed-use with the following usage functions:
 | Elderly units (assisted) | 100    | 60                  | 27                         | 6,000            | 2,700            |
 | Elderly units (independent) | 100    | 85                  | 38                         | 8,500            | 3,800            |
 | Starter units          | 200    | 85                  | 38                         | 17,000           | 7,600            |
-| Student studios        | 100    | 25                  | 12                         | 2,500            | 1,200            |
-| 4 students shared      | 13     | 121                 | 54                         | 1,573            | 702              |
-| 8 students shared      | 6      | 240                 | 107                        | 1,440            | 642              |
+| Student studios        | 200    | 25                  | 12                         | 2,500            | 1,200            |
+| 4 students shared      | 26     | 121                 | 54                         | 1,573            | 702              |
+| 8 students shared      | 12      | 240                 | 107                        | 1,440            | 642              |
 | Elderly care           | 1      | 850                 | 378                        | 850              | 378              |
 | Gym                    | 1      | 140                 | 63                         | 140              | 63               |
 | Restaurant             | 1      | 140                 | 63                         | 140              | 63               |
