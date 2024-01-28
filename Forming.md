@@ -8,9 +8,12 @@ remote_theme: pages-themes/cayman@v0.2.0
 
 # Forming 
 ## Voxels
-For the algorithmic design of the building. Small voxels had to be created. These voxels indicate the internal volumes of the generated building. The voxel size has to be chosen wisely to prevent creating awkward or unusable spaces. The height of a voxel is based on the height of one floor of the building. Because of "Bouwbesluit", the ceiling of newbuild housing space has to lie at 2.6 meters high. To design a nice buffer for ceiling/floor thickness, it was decided to put the height of the voxel at 3.2 meters. The area of the voxel should be square since that's the nicest to work with. This area is based on the minimum area needed for a wheelchair to turn ([Wheelchair turn](#wheelchair-turn)) and the standard wingspan of a person. This resulted in a voxel size of 1.8x1.8x3.2 (WxLxH) m^3.
+For the algorithmic design of the building. Small voxels had to be created. These voxels indicate the internal volumes of the generated building. The voxel size has to be chosen wisely to prevent creating awkward or unusable spaces. The height of a voxel is based on the height of one floor of the building. Because of "Bouwbesluit", the ceiling of newbuild housing space has to lie at 2.6 meters high. To design a nice buffer for ceiling/floor thickness, it was decided to put the height of the voxel at 3.2 meters. The area of the voxel should be square since that's the nicest to work with. This area is based on the minimum area needed for a wheelchair to turn ([Figure 1](#wheelchair-turn)) and the standard wingspan of a person. This resulted in a voxel size of 1.8x1.8x3.2 (WxLxH) m^3.
 
 ![Wheelchair 180 degrees turn with one wheel at a fixed point](https://github.com/CSFAlliance/csfalliance.github.io/assets/93916885/423155a7-9e08-46ef-bafa-203f8e75ff69 "Wheelchair turn")
+
+Figure 1: Wheelchair 180 degrees turn with one wheel at a fixed point
+
 ![Person height and spanwidth](https://github.com/CSFAlliance/csfalliance.github.io/assets/93916885/c659e5df-4efd-4539-b298-9f37dfe98c6a)
 
 source: prof. ir. Haak, A.J.H. & ir. Leever-van der Burgh, D., "De Menselijke Maat", Delftse universitaire pers (1980)
