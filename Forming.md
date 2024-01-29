@@ -52,7 +52,7 @@ Also, the design process accounted for factors such as privacy and the maximizin
 In Figures 4.5 and 4.6, the full facade tile set is shown. It consists of 8 tiles. However, in the figure, 9 tiles are shown. the first two shown tiles are the same tile but mirrored. 
 
 <div style="text-align: center;">
-  <img src="assets/Facadetileset" alt="Tile set" style="width: 350px;">
+  <img src="assets/Facadetileset.jpeg" alt="Tile set" style="width: 350px;">
   <p><em>Figure 4.5: Tile set</em></p>
 </div>
 
