@@ -22,11 +22,11 @@ In the middle of the floor plan, there is also a large outdoor space for the ent
 
 <div style="display: flex; justify-content: center;">
   <div style="text-align: center; margin-right: 10px; max-width: 50%;">
-    <img src="assets/sfeer1.jpg" alt="Sfeer1" style="width: 200px;">
+    <img src="assets/sfeer1.jpg" alt="Sfeer1" style="width: 350px;">
     <p><em>Figure 4.3: Sfeer 1</em></p>
   </div>
   <div style="text-align: center; max-width: 50%;">
-    <img src="assets/sfeer2.jpg" alt="Sfeer2" style="width: 200px;">
+    <img src="assets/sfeer2.jpg" alt="Sfeer2" style="width: 350px;">
     <p><em>Figure 4.4: Sfeer 2</em></p>
   </div>
 </div>
@@ -35,7 +35,7 @@ In the middle of the floor plan, there is also a large outdoor space for the ent
 Lastly, we were unable to conduct an analysis to determine the optimal location for a shaft, elevators, and stairwell. However, we managed to place them in advantageous positions using our knowledge of construction and architecture. In the east wing, a central stairwell with two spiral staircases has been positioned, serving as an additional secure escape route. The same applies to the west facade, where three elevators have been installed due to the larger surface area compared to the east wing. At the entrance of the west wing, two elevators with shafts have been installed, accompanied by two spiral staircases. Furthermore, an additional elevator has been added deeper into the west wing, primarily because the distance to the centre of the wing is considerable from the furthest point. This would make it challenging to meet the desired requirements of the building code for evacuation. The inclusion of an extra elevator, shaft, and stairwell with a spiral staircase significantly enhances the safety of evacuation from the surrounding residences in this wing.
 
 <div align="center">
-  <img src="assets/plattegrond.png" alt="Plattegrond">
+  <img src="assets/plattegrond.png" alt="Plattegrond" style="width: 350px;>
   <p><em>Figure 4.4: Plattegrond</em></p>
 </div>
 
@@ -52,18 +52,18 @@ Also, the design process accounted for factors such as privacy and the maximizin
 In Figures 4.5 and 4.6, the full facade tile set is shown. It consists of 8 tiles. However, in the figure, 9 tiles are shown. the first two shown tiles are the same tile but mirrored. 
 
 <div align="center">
-  <img src="assets/Facadetileset.jpeg" alt="Tiles set" style="width: 400px;">
+  <img src="assets/Facadetileset.jpeg" alt="Tiles set" style="width: 350px;">
   <p><em>Figure 4.5: Tiles set</em></p>
 </div>
 <div align="center">
-  <img src="assets/tilesAfterRender.jpg" alt="Tiles set after render" style="width: 400px;">
+  <img src="assets/tilesAfterRender.jpg" alt="Tiles set after render" style="width: 350px;">
   <p><em>Figure 4.6: Tiles set after rendering</em></p>
 </div>
 
 For the lower floors, the facades had to be welcoming and open. The design of the facades on these floors uses big, rectangular windows with a triangular cut-out. This is the third tile shown in Figures 4.5 and 4.6. This creates a triangular wave across the floor as shown in Figure 4.7.
 
 <div align="center">
-  <img src="assets/lowerFacades.jpeg" alt="lower facades" style="width: 250px;">
+  <img src="assets/lowerFacades.jpeg" alt="lower facades" style="width: 200px;">
   <p><em>Figure 4.7: Facades with trianglular wave</em></p>
 </div>
 
@@ -87,14 +87,14 @@ Since the tiles should have the same dimensions as the voxels, we started by bui
 The floors were placed by copying the floor tiles onto the primitives and rotating them according to the voxel rotation. The ceilings were done similarly except their normal direction was reversed. The roof tiles have been placed by manually selecting the uppermost floors. This was not done parametrically and is thus a form of post-processing. This was because of the design decision to include a walkable area in the hole of the building.
 
 <div align="center">
-  <img src="assets/Vloerplafonddak.png" alt="Floor, ceiling and roof">
+  <img src="assets/Vloerplafonddak.png" alt="Floor, ceiling and roof" style="width: 350px;>
   <p><em>Figure 4.9: Floor, ceiling and roof</em></p>
 </div>
 
 The facades facing north and east were selected by their normals, and this selection was reversed to get the facades facing south and west. Placing balconies was done by placing one of every 5 tiles. The lowest 4 floors were each put in a different group based on their height. Then each floor got a different tile to use. The emergency exits were placed manually.
 
 <div align="center">
-  <img src="assets/GeheleGebouw.png" alt="Finished Building">
+  <img src="assets/GeheleGebouw.png" alt="Finished Building" style="width: 350px;>
   <p><em>Figure 4.10: Finished Building</em></p>
 </div>
 
@@ -102,7 +102,7 @@ The facades facing north and east were selected by their normals, and this selec
 If you look closely you might spot a problem with these tile placements. That is, tiles placed on inward corners clash with each other (see image). An attempted solution was for each occupied voxel to keep track of neighbouring voxels, and to determine a neighbour count. This however was not enough to determine if an inward corner had been placed, only for outward corners. A better solution would have been to determine if each unoccupied voxel has 2 or more occupied neighbours. If so, replace the tiles with the inward corner tile.
 
 <div align="center">
-  <img src="assets/botsendeTiles.png" alt="Clashing Corners">
+  <img src="assets/botsendeTiles.png" alt="Clashing Corners" style="width: 350px;>
   <p><em>Figure 4.11: Clashing Corners</em></p>
 </div>
 
