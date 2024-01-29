@@ -21,11 +21,11 @@ The floor plans were initially drawn for the elderly units, followed by one for 
 In the middle of the floor plan, there is also a large outdoor space for the entire residential complex. Residents of this building can enjoy the beautiful garden, providing more companionship for the elderly when they go outside. On the east wing, there are additional elderly units and a shared unit. While there was an option to make this east wing exclusively for elderly units, mixing in a shared unit promotes more social interactions without being too conspicuous. Further consideration was given to adding a laundry room and a gym deeper into the east wing. This laundry room can be used by various residents of the building, specifically for those on this floor.
 
 <div align="center">
-  <img src="assets/sfeer1.jpg" alt="Sfeer1 style="height: 80px;">
+  <img src="assets/sfeer1.jpg" alt="Sfeer1 style="width: 80px;">
   <p><em>Figure 4.3: Sfeer 1</em></p>
 </div>
 <div align="center">
-  <img src="assets/sfeer2.jpg" alt="Sfeer2 style="height: 80px;">
+  <img src="assets/sfeer2.jpg" alt="Sfeer2 style="width: 80px;">
   <p><em>Figure 4.4: Sfeer 2</em></p>
 </div>
 
