@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Massing"
+permalink: /Massing
+remote_theme: pages-themes/cayman@v0.2.0
+---
+
+
 # Massing
 This chapter describes how we translated concepts and diagrams into a parametric building program using Houdini. We first start by telling how the site and envelope were created. Then how different analyses were done to improve the envelope. The last part of the massing chapter talks about allocating functions to their analysed locations. The following flowchart can be used as reference for the algoritm in Houdini.
 (Afbeelding process flowchart)
