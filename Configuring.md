@@ -50,11 +50,11 @@ For the algorithmic design of the building. Small voxels had to be created. Thes
 
 <div style="display: flex; justify-content: center;">
   <div style="text-align: center; margin-right: 20px;">
-    <img src="https://github.com/CSFAlliance/csfalliance.github.io/assets/93916885/423155a7-9e08-46ef-bafa-203f8e75ff69" alt="Wheelchair 180 degrees turn with one wheel at a fixed point" style="width: 300px;">
+    <img src="https://github.com/CSFAlliance/csfalliance.github.io/assets/93916885/423155a7-9e08-46ef-bafa-203f8e75ff69" alt="Wheelchair 180 degrees turn with one wheel at a fixed point" style="width: 200px;">
     <p style="margin-top: 10px;"><em>Figure 2.1: Wheelchair 180 degrees turn with one wheel at a fixed point</em></p>
   </div>
   <div style="text-align: center;">
-    <img src="https://github.com/CSFAlliance/csfalliance.github.io/assets/93916885/c659e5df-4efd-4539-b298-9f37dfe98c6a" alt="Person height and arm span" style="width: 300px;">
+    <img src="https://github.com/CSFAlliance/csfalliance.github.io/assets/93916885/c659e5df-4efd-4539-b298-9f37dfe98c6a" alt="Person height and arm span" style="width: 200px;">
     <p style="margin-top: 10px;"><em>Figure 2.2: Person height and arm span</em></p>
   </div>
 </div>
