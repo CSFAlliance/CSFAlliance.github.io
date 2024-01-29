@@ -9,35 +9,45 @@ remote_theme: pages-themes/cayman@v0.2.0
 # Planning 
 ## Proces
 ### Design goals
-The goal of this project is to design a building at the schieblock, located in Rotterdam. Before designing a building, we thought about what our goals for the building are. And what facilities the building should have. According to the assignment there should be space for 400 student units, 200 starter units and 200 elderly units. In addition, it was decided to create common areas. There is a goal policy which contains: 
+The goal of this project is to design a building at the Schieblock, located in Rotterdam. Before designing a building, we thought about what our goals for the building were. And what facilities the building should have. According to the assignment, there should be space for 400 student units, 200 starter units, and 200 elderly units. In addition, it was decided to create common areas. There is a goal policy that contains: 
 1. Green
 2. Safe 
 3. Togetherness 
 4. Sustainable 
-5. accesisble
+5. accessible
 
 
 In addition, we want to adhere to the following rules: 
 - Create a space where different residents can come together.  
-- The building is not only a place to live, but also a place to find relaxation in the common areas or with other residents 
+- The building is not only a place to live but also a place to find relaxation in the common areas or with other residents 
 
 ### Residents
-The building must require a total of 800 units which are divided with:
+The building must require a total of 800 units which are divided into:
 
 **400 students units:**
 
-- 25% single student studio’s with bathroom and kitchen (min 25m^2)
-- 50% multi dwelling apartment for 4 students with shared bathroom, kitchen and living space (min 25m^2 per student)
-- 25% multi dwelling apartments for 8 students (min 25m^2 per student)
+- 50% single student studios with bathroom and kitchen
+- 25% units part of a multi-dwelling apartment for 4 students with a shared bathroom, kitchen, and living space
+- 25% units part of multi-dwelling apartments for 8 students 
 
 Multi dwellings must be separated from the elderly units and the starter units because of the nuisance.
 
+The areas of the units and shared spaces are determined as follows:
+
+-Studio's 
+		ca. 25 m2 (source: 24m^2)
+  
+-Multi dwellings 
+		ca. 15 m2 personal rooms (source: 18m^2) 
+		ca. 7 m2 shared space per person, with a minimum of 20m2 and a maximum of 40m2
+
 **200 elderly units:**
 
-- All units must be single level, accessible by elevator and wheelchair, exterior space needed when space is larger than 40m2 with sunlight of min. 5m^2
-- 50% Independent living
-- 50% Assisted living
+- All units must be single level, accessible by elevator and wheelchair, exterior space needed when space is larger than 40m2 with the sunlight of min. 5m^2
+- 50% Independent living (85 m^2)
+- 50% Assisted living (60 m^2)
 - Assisted living in close range to care centre and physical-therapy center
+
 
 **200 starter units**
 
@@ -79,6 +89,10 @@ This building is going to be mixed-use with the following usage functions:
 ### List of full spaces 
 The square meters in the table are based on average values for housing/restaurants/sports schools in Rotterdam/Netherlands. 
 
+<div align="center">
+  <h2>Table 1: function area's</h2>
+</div>
+
 | Function               | Amount | Area per unit (m2) | Voxels per unit (3.24 m2) | Total Area (m2) | Voxels (3.24 m2) |
 |------------------------|--------|---------------------|----------------------------|------------------|------------------|
 | Elderly units (assisted) | 100    | 60                | 19                         | 6,000            | 1,900            |
@@ -99,13 +113,20 @@ The square meters in the table are based on average values for housing/restauran
 ## Product
 
 ### Bubble diagram
-The bubble diagram shows which spaces are connected, and how important these connections are. Through the different colors and numbers, it can be read which connection is more important between certain spaces. 
-![Metro Diagram](assets/metrodiagram.jpeg)
+The bubble diagram shows which spaces are connected, and how important these connections are. Through the different colors and numbers, it can be read which connection is more important between certain spaces.
 
-
+<div align="center">
+  <img src="assets/metrodiagram.jpeg" alt="Metro Diagram">
+  <p><em>Figure 1: Metro Diagram</em></p>
+</div>
 
 ### Exterior context relationships
-![External factors](assets/Externalfactors.png)
+
+<div align="center">
+  <img src="assets/Externalfactors.png" alt="External Factors">
+  <p><em>Figure 2: External Factors</em></p>
+</div>
+
 
 
 
