@@ -23,11 +23,11 @@ In the middle of the floor plan, there is also a large outdoor space for the ent
 <div style="display: flex; justify-content: center;">
   <div style="text-align: center; margin-right: 10px; max-width: 50%;">
     <img src="assets/sfeer1.jpg" alt="Sfeer1" style="width: 350px;">
-    <p><em>Figure 4.3: Sfeer 1</em></p>
+    <p><em>Figure 4.3: Atmosphere 1</em></p>
   </div>
   <div style="text-align: center; max-width: 50%;">
     <img src="assets/sfeer2.jpg" alt="Sfeer2" style="width: 350px;">
-    <p><em>Figure 4.4: Sfeer 2</em></p>
+    <p><em>Figure 4.4: Atmosphere 2</em></p>
   </div>
 </div>
 
@@ -35,7 +35,7 @@ Lastly, we were unable to conduct an analysis to determine the optimal location 
 
 <div style="text-align: center;">
   <img src="assets/plattegrond.png" alt="Plattegrond" style="width: 500px;">
-  <p><em>Figure 4.4: Plattegrond</em></p>
+  <p><em>Figure 4.4: Floor plan</em></p>
 </div>
 
     
