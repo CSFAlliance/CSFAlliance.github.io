@@ -64,9 +64,12 @@ Now the hard part, step 2. We humans can easily devide when 2 points are neighbo
 
 #### Growing each function
 Take a certain function. We first calculate if there is enough area already by checking the amount of points that already have that certain funcion. These points are called the children. Then we can check all the possible neighbours by making a set of all the neighbours of all the children. By then sorting that set based on the score for that certain function we pick the best one. This is the voxel that grows. Repeat for all the other functions.
-(afbeelding gif groeien)
+![The growing process](assets/growing.gif)
+
+![The growing outcome](assets/outcome.png)
 
 ### Underground Parking
 After researching the underground environment of Rotterdam, we found out that we had a lot of room to dig below the surface in our site. As to not complicate the design more than it needs to we decided to place the car parking function underground. This is visualised by the blue box.
-(afbeelding underground parking)
+
+![The underground parking garage](assets/parking.gif)
 
