@@ -19,7 +19,7 @@ The floor plans were initially drawn for the elderly units, followed by one for 
 
 In the middle of the floor plan, there is also a large outdoor space for the entire residential complex. Residents of this building can enjoy the beautiful garden, providing more companionship for the elderly when they go outside. On the east wing, there are additional elderly units and a shared unit. While there was an option to make this east wing exclusively for elderly units, mixing in a shared unit promotes more social interactions without being too conspicuous. Further consideration was given to adding a laundry room and a gym deeper into the east wing. This laundry room can be used by various residents of the building, specifically for those on this floor.
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; flex-direction: row;">
   <div style="text-align: center; margin-right: 20px; max-width: 50%;">
     <img src="sfeer1.jpg" alt="Sfeer1" style="height: 250px;">
     <p style="margin-top: 10px;"><em>Figure 4.3: Sfeer1</em></p>
@@ -27,17 +27,6 @@ In the middle of the floor plan, there is also a large outdoor space for the ent
   <div style="text-align: center; max-width: 50%;">
     <img src="sfeer2.jpg" alt="Sfeer2" style="height: 250px;">
     <p style="margin-top: 10px;"><em>Figure 4.4: Sfeer2</em></p>
-  </div>
-</div>
-
-<div style="display: flex; justify-content: center;">
-  <div style="text-align: center; margin-right: 10px; max-width: 50%;">
-    <img src="https://github.com/CSFAlliance/csfalliance.github.io/assets/93916885/423155a7-9e08-46ef-bafa-203f8e75ff69" alt="Wheelchair 180 degrees turn with one wheel at a fixed point" style="height: 300px;">
-    <p style="margin-top: 10px;"><em>Figure 2.2: Wheelchair 180 degrees turn with one wheel at a fixed point</em></p>
-  </div>
-  <div style="text-align: center; max-width: 50%;">
-    <img src="https://github.com/CSFAlliance/csfalliance.github.io/assets/93916885/c659e5df-4efd-4539-b298-9f37dfe98c6a" alt="Person height and arm span" style="height: 300px;">
-    <p style="margin-top: 10px;"><em>Figure 2.3: Person height and arm span</em></p>
   </div>
 </div>
 
