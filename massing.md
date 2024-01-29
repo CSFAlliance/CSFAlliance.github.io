@@ -84,7 +84,7 @@ Now came the point of using the previous analyses in placing the functions. The 
 First we wanted for each point to create scores for each function. This was accomplished using a multi objective optimization algorithm created by Shervin Azadi & Pirouz Nourian. This algorithm used the analysed voxel values and weighings of each function as input. The result a list of points that contained a score for each function.
 
 <div style="text-align: center;">
-  <img src="assets/weighing.png" alt="Each point with 9 function scores" style="width: 350px;">
+  <img src="assets/weighing.png" alt="Each point with 9 function scores" style="width: 700px;">
   <p><em>Figure 3.9: Each point with 9 function scores</em></p>
 </div>
 
