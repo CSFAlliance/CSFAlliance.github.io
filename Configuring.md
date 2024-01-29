@@ -41,5 +41,16 @@ To facilitate the process as effectively as possible, we have maintained a flowc
 
 For the algorithmic design of the building. Small voxels had to be created. These voxels indicate the internal volumes of the generated building. The voxel size has to be chosen wisely to prevent creating awkward or unusable spaces. The height of a voxel is based on the height of one floor of the building. Because of "Bouwbesluit", the ceiling of newbuild housing space has to lie at 2.6 meters high. To design a nice buffer for ceiling/floor thickness, it was decided to put the height of the voxel at 3.2 meters. The area of the voxel should be square since that's the nicest to work with. This area is based on the minimum area needed for a wheelchair to turn (Figure 1) and the standard wingspan of a person(Figure 2). This resulted in a voxel size of 1.8x1.8x3.2 (WxLxH) m^3. 
 
-![Wheelchair](weelchair.jpg)
+![Wheelchair](weelchair.jpg) 
+![Mens](Mens.png)
+
+## Voxellizing 
+
+The concluding step in the configuration process involves utilizing the specified voxel size to generate a lattice derived from the mandatory envelope. We generated the surrounding city of Rotterdam into the area to determine how big the envelope could be. 
+
+![Voxel1](voxel1.jpg)
+![Voxel2](Voxel2.jpg)
+
+
+
 
