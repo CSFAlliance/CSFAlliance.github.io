@@ -88,14 +88,14 @@ Since the tiles should have the same dimensions as the voxels, we started by bui
 The floors were placed by copying the floor tiles onto the primitives and rotating them according to the voxel rotation. The ceilings were done similarly except their normal direction was reversed. The roof tiles have been placed by manually selecting the uppermost floors. This was not done parametrically and is thus a form of post-processing. This was because of the design decision to include a walkable area in the hole of the building.
 
 <div style="text-align: center;">
-  <img src="assets/Vloerplafonddak.png" alt="Floor, ceiling and roof" style="width: 350px;>
+  <img src="assets/Vloerplafonddak.png" alt="Floor, ceiling and roof" style="width: 350px;">
   <p><em>Figure 4.9: Floor, ceiling and roof</em></p>
 </div>
 
 The facades facing north and east were selected by their normals, and this selection was reversed to get the facades facing south and west. Placing balconies was done by placing one of every 5 tiles. The lowest 4 floors were each put in a different group based on their height. Then each floor got a different tile to use. The emergency exits were placed manually.
 
 <div style="text-align: center;">
-  <img src="assets/GeheleGebouw.png" alt="Finished Building" style="width: 350px;>
+  <img src="assets/GeheleGebouw.png" alt="Finished Building" style="width: 350px;">
   <p><em>Figure 4.10: Finished Building</em></p>
 </div>
 
@@ -103,7 +103,7 @@ The facades facing north and east were selected by their normals, and this selec
 If you look closely you might spot a problem with these tile placements. That is, tiles placed on inward corners clash with each other (see image). An attempted solution was for each occupied voxel to keep track of neighbouring voxels, and to determine a neighbour count. This however was not enough to determine if an inward corner had been placed, only for outward corners. A better solution would have been to determine if each unoccupied voxel has 2 or more occupied neighbours. If so, replace the tiles with the inward corner tile.
 
 <div style="text-align: center;">
-  <img src="assets/botsendeTiles.png" alt="Clashing Corners" style="width: 350px;>
+  <img src="assets/botsendeTiles.png" alt="Clashing Corners" style="width: 350px;">
   <p><em>Figure 4.11: Clashing Corners</em></p>
 </div>
 
