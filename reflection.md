@@ -21,7 +21,7 @@ The reflection of the group is on the project period between 13/11/2023 and 30/0
 
 In the beginning, communication ran pretty okay, however, we started using a lot of online platforms. Documents were sent in whatsapp, via one drive and github. After a while, this became confusing and we decided to work mainly via one drive and later github. Looking back now, the communication could be better, we had clearly divided the tasks but because not everyone kept each other informed we became a bit of an island. Daniela and Karlijn took the lead in this and made sure everyone kept to their tasks neatly and on time.
 
-# How did we solve Problems 
+## How did we solve Problems 
 
 We solved the problems that emerged in the project by implementing several strategies:
 
