@@ -5,7 +5,7 @@ permalink: /Forming
 remote_theme: pages-themes/cayman@v0.2.0
 ---
 
-<!--
+
 # Forming 
 ## Floorplan
 ...
@@ -40,4 +40,4 @@ These tiles all have a non-window side. These will be aimed at the main source o
 For the area, it's important to have nice green areas. The little amount of greenery that will be lost in the construction of the building has to be made up for. Better would be better if more greenery were placed than initially was placed at the location. Therefore, it was chosen to use green roofs. The tile corresponding to the roof is shown below
 (roof tile figure)
 
--->
+
