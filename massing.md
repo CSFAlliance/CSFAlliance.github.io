@@ -6,21 +6,8 @@ remote_theme: pages-themes/cayman@v0.2.0
 ---
 
 # Massing
-This chapter describes how we translated concepts and diagrams into a parametric building program using Houdini. We first start by telling how the site and envelope were created. Then how different analyses were done to improve the envelope. The last part of the massing chapter talks about allocating functions to their analysed locations. The following flowchart can be used as reference for the algoritm in Houdini.
+This chapter describes how we translated the concepts and diagrams into a parametric building program using Houdini. In the last chapter reported on how the original envelope was created. Now we are gonna talk about how different analyses were done to improve the envelope. The last part of the massing chapter talks about allocating functions to their analysed locations. The following flowchart can be used as reference for the algoritm in Houdini.
 (afbeelding process flowchart)
-
-## Voxel Cloud
-First we needed the dimensions and outline of the site we were building on. Firstly we had to import the neighbouring building of Rotterdam. This was realised using importing tiles from the bag3d website. Now we carefully traced the outline of the site by using the neighbouring buildings. The maximal building height the municipality of Rotterdam stated for our area was 200 meters! So we did not limit ourself, and made our envelope 200 meters high.
-(afbeelding envelope)
-
-To be able to reason about this envelope in detail, we need to subdivide the envelope in voxels. But what sizes to choose? First we thought about making the voxels 1,5 x 4 x 1,5 m. It was important for us to adhere to the standards of Neufert, therefore we made the horizontal dimensions multiple of 0,3 m. This is very useful for designing modular spaces of 0,3 m. 1,5 m was a good minimum we chose, since the smallest possible function was a hallway. That hallway had to be at least 1,5 m wide to accomodate turning wheelchairs. However, we did not account for the structal requirements of each voxel, since there needs to be a wall and or other support beams in each voxel. Therefore we raised the horizontal dimension of the voxel to 1,8 x 1,8 m.
-(afbeelding neufert modularity)
-
-The height of 4 m was chosen using a wet thumb and looking at the highrise building EWI. But after realising 4 m was way too high we settled for 3,2 m: 2,5 m headspace and 70 cm for the floors and ventilation systems.
-
-### Underground Parking
-After researching the underground environment of Rotterdam, we found out that we had a lot of room to dig below the surface in our site. We decided to place the car parking garage underground. This is visualised by the blue box.
-(afbeelding underground parking)
 
 ## Analyses
 Now that we have an envelope, we want to inhabit this envelope with different functions. But how to decide where to place each function? This is done by thoroughly analysing the current envelope. Is there enough sunlight in my house? How much noise does my restaurant have to cope with? These are all questions inhabitants might have. After doing the following analyses we can answer all these questions, and therefore optimize the placements of every function.
@@ -55,7 +42,7 @@ The last analysis done was a calculation of how close each voxel was to the grou
 This analysis was not implemeted, but would have been very useful to us. Our recommendation is to calculate the distance between each point and sources of noise by using a "distance to geometry" SOP. These origins are the train tracks, the loud nightclubs and the busy streets. This analysis would have been used to place elderly homes further away from sources of noise. We did however minimize noise in other ways described in the forming chapter.
 
 ## Function Allocation
-Now came the point of using the previous analyses in placing the functions. The first thing we did was giving each point a score for each function, how much does that point want each function. Then we used a growing algorithm for placing enough voxels of each function until the area from the requirements was covered. 
+Now came the point of using the previous analyses in placing the functions. The first thing we did was giving each point a score for each function, how much does that point want each function. Then we used a growing algorithm for placing enough voxels of each function until the area from the requirements was covered. Lastly we quickly touch on how the parking spaces were placed.
 
 ### Weighing Points
 First we wanted for each point to create scores for each function. This was accomplished using a multi objective optimization algorithm created by Shervin Azadi & Pirouz Nourian. This algorithm used the analysed voxel values and weighings of each function as input. The result a list of points that contained a score for each function.
@@ -76,3 +63,7 @@ Now the hard part, step 2. We humans can easily devide when 2 points are neighbo
 #### Growing each function
 Take a certain function. We first calculate if there is enough area already by checking the amount of points that already have that certain funcion. These points are called the children. Then we can check all the possible neighbours by making a set of all the neighbours of all the children. By then sorting that set based on the score for that certain function we pick the best one. This is the voxel that grows. Repeat for all the other functions.
 (afbeelding gif groeien)
+
+### Underground Parking
+After researching the underground environment of Rotterdam, we found out that we had a lot of room to dig below the surface in our site. As to not complicate the design more than it needs to we decided to place the car parking function underground. This is visualised by the blue box.
+(afbeelding underground parking)
