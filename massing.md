@@ -17,7 +17,8 @@ The first analysis done was a shadow casting analysis. Here we calculated what v
 
 First we needed the direction of the sun for every hour thoughout the whole year. This was handed to us in a csv file by the minor coordinator. After reading the CSV file and adjusting some error. Namely the sun directions going underground. We named these sun directions "sunpath".
 
-Now was the task of calculating sunlight obstruction by our voxels. First step was building vectors with the directions of the sun. The length of each vector was 150 meters as per building codes. (zie afbeelding vector constructie). For every point in our envelope we shot each vector from that point. For each vector that hit some building from the "context", Rotterdam, we added 1 to a block counter. Then we shaped the envelope by deleting each point that has more than 700 blocking vectors.
+Now was the task of calculating sunlight obstruction by our voxels. First step was building vectors with the directions of the sun. The length of each vector was 150 meters as per building codes. (see image). For every point in our envelope we shot each vector from that point. For each vector that hit some building from the "context", Rotterdam, we added 1 to a block counter. Then we shaped the envelope by deleting each point that has more than 700 blocking vectors.
+![A single vector with the direcion of the sun, representing 1 sun hour](assets/sundirection.png)
 ![The voxels that cast too much shadow](assets/shadowcasting.png)
 
 ### Sunlight Analysis
@@ -48,7 +49,6 @@ Now came the point of using the previous analyses in placing the functions. The 
 
 ### Weighing Points
 First we wanted for each point to create scores for each function. This was accomplished using a multi objective optimization algorithm created by Shervin Azadi & Pirouz Nourian. This algorithm used the analysed voxel values and weighings of each function as input. The result a list of points that contained a score for each function.
-(afbeelding geometry spreadsheet)
 ![Each point with 9 function scores](assets/weighing.png)
 
 ### Growing Algorithm
