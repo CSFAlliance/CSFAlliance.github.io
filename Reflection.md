@@ -4,7 +4,7 @@ title: "Reflection"
 permalink: /Reflection
 remote_theme: pages-themes/cayman@v0.2.0
 ---
-<!--
+
 # Reflection
 
 ## Group
@@ -36,4 +36,4 @@ We solved the problems that emerged in the project by implementing several strat
 
 4. **Active Questioning and Collaboration:**
    - We actively asked questions to both teachers and each other, which facilitated problem-solving and improved our understanding. This collaborative approach contributed to achieving a satisfactory final product.
--->
+
