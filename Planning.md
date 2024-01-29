@@ -61,7 +61,7 @@ This building is going to be mixed-use with the following usage functions:
 
 **Parking**
 
-- A parking requirement of 1.33 bike parking spot per resident
+- A parking requirement of 1.33 bike parking spots per resident
 - 0.8 car parking spot per appropriate dwelling
 - Separate 10 bike parking spots and 4 car parking spots per 200 m^2
 - Bike and car parking for dwellings should be secure and only accessible for residents, while the additional bike and car parking should be publicly accessible.
@@ -69,11 +69,11 @@ This building is going to be mixed-use with the following usage functions:
 **Greenery**
 
 - Areas for greenery equal to the total surface area of the plot (approx. 8,000m^2 excluding the Biergarten) should be kept on the plot. Apply more greenery on green roofs, vertical façades, stepped terraces, etc...
-- The building will incorporate a system for rain harvesting. This system should at least be able to collect and store rainwater from the site but preferably also the neighborhood. Part of the stored water should be reused by the building complex
+- The building will incorporate a system for rain harvesting. This system should at least be able to collect and store rainwater from the site preferably also the neighborhood. Part of the stored water should be reused by the building complex
 
 **Safety & Privacy**
 
-- A degree of social control should be present in your design for the building complex. This means that public spaces such as inner courtyards or corridors should be visible from at least a few dwellings, so that there is some ‘overview’ by residents.
+- A degree of social control should be present in your design for the building complex. This means that public spaces such as inner courtyards or corridors should be visible from at least a few dwellings so that there is some ‘overview’ by residents.
 
 
 ### List of full spaces 
