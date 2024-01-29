@@ -8,8 +8,18 @@ remote_theme: pages-themes/cayman@v0.2.0
 
 # Forming 
 ## Floorplan
-...
+The floor plan is based on the grid of the voxel format (specifically 1.8m x 1.8m x 3.2m). Using this grid ensures accessibility for everyone, including wheelchair users. Additionally, using two voxels results in a perfect dimension for the width or length of a bedroom with a double bed. Having said that, a floor plan for the 3rd floor was generated through region growing with functions. When arranging the 3rd floor, consideration was given to the presence of functions and the approximate size of these regions.
+Subsequently, the pattern of the voxel formation was adopted and redrawn in Revit. In creating the floor plans, particular attention was paid to how all the functions come together in harmony. For the 3rd floor, the focus was on elderly units, shared housing, laundry service, and the gym. In Houdini, colors were used to illustrate how the functions are interconnected.
 
+*screenshot Houdini functies plaatsing
+
+The floor plans were initially drawn for the elderly units, followed by one for the shared unit, and then the gym and laundry service. On the west side of this floor, a significant portion is dedicated to elderly units. This is an area where shared spaces are provided for the elderly to play games or chat with each other. An additional outdoor space has been created in this wing to give the elderly their own place.
+
+*fot gezamenlijke ruimte
+
+In the middle of the floor plan, there is also a large outdoor space for the entire residential complex. Residents of this building can enjoy the beautiful garden, providing more companionship for the elderly when they go outside. On the east wing, there are additional elderly units and a shared unit. While there was an option to make this east wing exclusively for elderly units, mixing in a shared unit promotes more social interactions without being too conspicuous. Further consideration was given to adding a laundry room and a gym deeper into the east wing. This laundry room can be used by various residents of the building, specifically for those on this floor.
+
+![Sfeer1](sfeer1.jpg)
 ## Facades
 
 It aimed to create an interesting and appealing structure that radiates unity and creates a comfortable environment. 
