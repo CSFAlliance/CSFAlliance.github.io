@@ -35,17 +35,17 @@ Multi dwellings must be separated from the elderly units and the starter units b
 The areas of the units and shared spaces are determined as follows:
 
 -Studio's 
-		ca. 25 m2 (source: 24m^2)
+		ca. 25 m2 (source: 24m2)
   
 -Multi dwellings 
-		ca. 15 m2 personal rooms (source: 18m^2) 
+		ca. 15 m2 personal rooms (source: 18m2) 
 		ca. 7 m2 shared space per person, with a minimum of 20m2 and a maximum of 40m2
 
 **200 elderly units:**
 
 - All units must be single level, accessible by elevator and wheelchair, exterior space needed when space is larger than 40m2 with the sunlight of min. 5m^2
-- 50% Independent living (85 m^2)
-- 50% Assisted living (60 m^2)
+- 50% Independent living (85 m2)
+- 50% Assisted living (60 m2)
 - Assisted living in close range to care centre and physical-therapy center
 
 
