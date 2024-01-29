@@ -49,7 +49,7 @@ To facilitate the process as effectively as possible, we have maintained a flowc
 For the algorithmic design of the building. Small voxels had to be created. These voxels indicate the internal volumes of the generated building. The voxel size has to be chosen wisely to prevent creating awkward or unusable spaces. The height of a voxel is based on the height of one floor of the building. Because of "Bouwbesluit", the ceiling of newbuild housing space has to lie at 2.6 meters high. To design a nice buffer for ceiling/floor thickness, it was decided to put the height of the voxel at 3.2 meters. The area of the voxel should be square since that's the nicest to work with. This area is based on the minimum area needed for a wheelchair to turn ([Figure 1](#wheelchair-turn)) and the standard wingspan of a person ([Figure 2](#Person-size)). This resulted in a voxel size of 1.8x1.8x3.2 (WxLxH) m^3.
 
 <div style="display: flex; justify-content: center;">
-  <div style="text-align: center; margin-right: 40px;">
+  <div style="text-align: center; margin-right: 10px;">
     <img src="https://github.com/CSFAlliance/csfalliance.github.io/assets/93916885/423155a7-9e08-46ef-bafa-203f8e75ff69" alt="Wheelchair 180 degrees turn with one wheel at a fixed point" style="height: 300px;">
     <p style="margin-top: 10px;"><em>Figure 2.1: Wheelchair 180 degrees turn with one wheel at a fixed point</em></p>
   </div>
