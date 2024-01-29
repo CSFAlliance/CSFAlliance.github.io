@@ -5,7 +5,7 @@ permalink: /Forming
 remote_theme: pages-themes/cayman@v0.2.0
 ---
 
-
+<!--
 # Forming 
 ## Floorplan
 ...
@@ -19,7 +19,7 @@ Because of the location, the design faces some challenges, for example, noise fr
 Also, the design process accounted for factors such as privacy and the maximizing use of greenery. This way, habitants and visitors would feel safe and at ease in the building.
 
 ### Tile set
-<!--
+
 <div align="center">
   <img src="assets/Facadetileset.jpeg" alt="Tiles set">
   <p><em>Figure 4.1: Tiles set</em></p>
@@ -28,7 +28,7 @@ Also, the design process accounted for factors such as privacy and the maximizin
   <img src="assets/tilesAfterRender.jpg" alt="Tiles set after render">
   <p><em>Figure 4.2: Tiles set after rendering</em></p>
 </div>
--->
+
 For the lower floors, the facades had to be welcoming and open. The design of the facades on these floors uses big, rectangular windows with a triangular cut-out. This creates a triangular wave across the floor.
 
 The floors above are mostly expected to be housing. For these floors sunlight and noise reduction are more important. Also in the spirit of creating unity across the building, the triangular theme was re-introduced in these types of facades. For the North and East sides of the building, the majority of the noise pollution is expected to be from directly below the facades from the trains or Biergarten. For the other two sides of the building, the majority of the noise pollution will come sideways from these noise sources. Therefore, two similar but different kinds of facades were created. The facades on the North and East sides will form horizontal lines and a hanging shape, and the facades on the South and West sides will have quite similar shapes, however, these will be vertical or standing shapes.
@@ -39,3 +39,5 @@ These tiles all have a non-window side. These will be aimed at the main source o
 
 For the area, it's important to have nice green areas. The little amount of greenery that will be lost in the construction of the building has to be made up for. Better would be better if more greenery were placed than initially was placed at the location. Therefore, it was chosen to use green roofs. The tile corresponding to the roof is shown below
 (roof tile figure)
+
+-->
