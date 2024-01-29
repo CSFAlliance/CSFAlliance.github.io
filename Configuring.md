@@ -27,7 +27,7 @@ Then we also created another rel-chart of what features should meet based on var
 
 <div align="center">
   <p><em>Table 2.2: REL-chart extension</em></p>
-  <img src="assets/Relchart2.png" alt="Relchart2" style="width: 700px;">
+  <img src="assets/Relchart2.png" alt="Relchart2" style="width: 500px;">
 </div>
 
 For all inhabited spaces (residences, care center, gym, and restaurant), we have stipulated that sunlight should be able to enter, and the same applies to the sky view factor. It is noteworthy that the elderly units have high weights (specifically 1) for these aspects because it has been proven that seniors often recover more quickly when there is something to observe, and they can see/hear nature. It is important to pay special attention to the view and sunlight for the elderly. While preferences for the other units also exist, they are comparatively less critical. 
@@ -43,7 +43,7 @@ For certain functions, it is also vital that they are situated close to the grou
 To facilitate the process as effectively as possible, we have maintained a flowchart outlining the progression of the process leading to the creation of the building. Various components need to be investigated. Through the use of the flowchart, it becomes clearer for us to determine the approach and make progress in the project. 
 
 <div align="center">
-  <img src="assets/Flowchart.jpg" alt="Flowchart">
+  <img src="assets/Flowchart.jpg" alt="Flowchart" style="width: 900px;">
   <p><em>Figure 2.1: Flowchart</em></p>
 </div>
 
