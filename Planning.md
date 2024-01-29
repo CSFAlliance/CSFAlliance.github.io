@@ -105,7 +105,8 @@ The bubble diagram shows which spaces are connected, and how important these con
 
 
 ### Exterior context relationships
-![External factors](External factors.png)
+![External factors](Externalfactors.png)
+
 
 
  
