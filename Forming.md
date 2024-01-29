@@ -13,14 +13,14 @@ The floor plan is based on the grid of the voxel format (specifically 1.8m x 1.8
 Subsequently, the pattern of the voxel formation was adopted and redrawn in Revit. In creating the floor plans, particular attention was paid to how all the functions come together in harmony. For the 3rd floor, the focus was on elderly units, shared housing, laundry service, and the gym. In Houdini, colours were used to illustrate how the functions are interconnected.
 
 <div style="text-align: center;">
-  <img src="assets/forming.jpg" alt="Forming">
+  <img src="assets/forming.jpg" alt="Forming" style="width: 400px;">
   <p><em>Figure 4.1: Forming</em></p>
 </div>
 
 The floor plans were initially drawn for the elderly units, followed by one for the shared unit, and then the gym and laundry service. On the west side of this floor, a significant portion is dedicated to elderly units. This is an area where shared spaces are provided for the elderly to play games or chat with each other. An additional outdoor space has been created in this wing to give the elderly their own place.
 
 <div style="text-align: center;">
-  <img src="assets/interieur.jpg" alt="Interior">
+  <img src="assets/interieur.jpg" alt="Interior" style="width: 400px;">
   <p><em>Figure 4.2: Interior</em></p>
 </div>
 
