@@ -25,7 +25,7 @@ Also, the design process accounted for factors such as privacy and the maximizin
   <em>Figure 4.1: Tiles set</em>
 </div>
 <div align="center">
-  <img src="assets/tilesAfterRender" alt="Tiles set">
+  <img src="assets/tilesAfterRender.png" alt="Tiles set after render">
   <em>Figure 4.2: Tiles set after rendering</em>
 </div>
 
