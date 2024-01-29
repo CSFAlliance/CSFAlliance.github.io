@@ -12,14 +12,19 @@ remote_theme: pages-themes/cayman@v0.2.0
 
 With the created set of program requirements we created a diagram to specify the preferences and the preferred spatial qualities.
 
-Each function will need to be linked to another function. Some are strongly coupled, while others are less strongly coupled. To gain a comprehensive overview, we have listed the functions. Each function is assessed in relation to other functions through weights ranging from 0 (lowest weight) to 1 (highest weight). hallo
-Table 1: ![RelChart](RelChart.png)
+Each function will need to be linked to another function. Some are strongly coupled, while others are less strongly coupled. To gain a comprehensive overview, we have listed the functions. Each function is assessed in relation to other functions through weights ranging from 0 (lowest weight) to 1 (highest weight).
+
+Table 3.1: REL-chart
+
+![RelChart](RelChart.png)
 
 For the parking spaces, bike spaces, and the restaurant, it was crucial that these be located close to the street and the beer garden. These functions must remain easily accessible for both the building residents and visitors. 
 Furthermore, it is paramount that the elderly units are situated near the care centre for the elderly and the gym. Seniors require physical activity and should have access to assistance within a short distance. Conversely, it is beneficial for physiotherapists and nurses to be close to the homes of the elderly to provide optimal support. 
 For all units in the building, it is also important that they can easily reach the laundry rooms. Often, there may be an elevator or corridor involved before reaching the designated space. The only consideration is to avoid mixing elderly units with various other residential units. Older individuals generally prefer a more tranquil environment in their living spaces. Nevertheless, integrating the elderly with the youth and other demographics can create a sense of community and prevent them from feeling isolated. 
 Finally, it seemed like a good idea to have a courtyard on the ground level. A communal space where different people can come together, including residents of the building, visitors, and individuals from the surrounding area. 
 Then we also created another rel-chart of what features should meet based on various analyses.
+
+Table 3.2: REL-chart extention
 
 ![Relchart2](Relchart2.png)
 
@@ -43,11 +48,11 @@ For the algorithmic design of the building. Small voxels had to be created. Thes
 
 ![Wheelchair 180 degrees turn with one wheel at a fixed point](https://github.com/CSFAlliance/csfalliance.github.io/assets/93916885/423155a7-9e08-46ef-bafa-203f8e75ff69 "Wheelchair turn")
 
-Figure 1: Wheelchair 180 degrees turn with one wheel at a fixed point
+Figure 3.1: Wheelchair 180 degrees turn with one wheel at a fixed point
 
 ![Person height and arm span](https://github.com/CSFAlliance/csfalliance.github.io/assets/93916885/c659e5df-4efd-4539-b298-9f37dfe98c6a "Person size")
 
-Figure 2: Person height and arm span
+Figure 3.2: Person height and arm span
 
 source: prof. ir. Haak, A.J.H. & ir. Leever-van der Burgh, D., "De Menselijke Maat", Delftse universitaire pers (1980)
 
