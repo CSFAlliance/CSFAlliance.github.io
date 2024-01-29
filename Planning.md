@@ -54,6 +54,7 @@ The areas of the units and shared spaces are determined as follows:
 - Two-bedroom units:
   - Safe for children (no split-level)
   - Shared outdoor space for children to play around
+  - 85m2
 
 **Overall units:**
 
@@ -75,6 +76,9 @@ This building is going to be mixed-use with the following usage functions:
 - 0.8 car parking spot per appropriate dwelling
 - Separate 10 bike parking spots and 4 car parking spots per 200 m^2
 - Bike and car parking for dwellings should be secure and only accessible for residents, while the additional bike and car parking should be publicly accessible.
+
+Considering these requirements it was calculated that 400 car spots are needed for residents, with an additional 30 spots for the extra facilities. Using standard car spot sizes and lane sizes, this means 10,200 m2 of car parking is required.
+For bikes, it was calculated that 1,064 bike spots for residents are needed, with an additional 70 spots for the extra facilities. This was translated to a minimum of 852 m2 needed for bike parking, including the bike stalls and lanes between those stalls.
 
 **Greenery**
 
