@@ -43,8 +43,12 @@ These tiles all have a non-window side. These will be aimed at the main source o
 
 In Figures 4.1 and 4.2, there are two more tiles shown, the 4th and the last tile. The 4th tile is used as an emergency exit and the last tile is a big window, used at inward corners where the usual facades can't be used due to lack of space.
 
-For the area, it's important to have nice green areas. The little amount of greenery that will be lost in the construction of the building has to be made up for. Better would be better if more greenery were placed than initially was placed at the location. Therefore, it was chosen to use green roofs. The tile corresponding to the roof is shown below
+For the area, it's important to have nice green areas. The little amount of greenery that will be lost in the construction of the building has to be made up for. Better would be better if more greenery were placed than initially was placed at the location. Therefore, it was chosen to use green roofs. The tile corresponding to the roof is shown on the right in Figure 4.4. In this figure, also the floor tile is shown, left of the roof tile.
 
+<div align="center">
+  <img src="assets/FloorAndRooftile.png" alt="lower facades" style="width: 300px;">
+  <p><em>Figure 4.4: Floor and roof tiles</em></p>
+</div>
 
 
 
