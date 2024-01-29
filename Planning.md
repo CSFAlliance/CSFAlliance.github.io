@@ -79,22 +79,22 @@ This building is going to be mixed-use with the following usage functions:
 ### List of full spaces 
 The square meters in the table are based on average values for housing/restaurants/sports schools in Rotterdam/Netherlands. 
 
-| Function               | Amount | Area per unit (m2) | Voxels per unit (2.25 m2) | Total Area (m2) | Voxels (2.25 m2) |
+| Function               | Amount | Area per unit (m2) | Voxels per unit (3.24 m2) | Total Area (m2) | Voxels (3.24 m2) |
 |------------------------|--------|---------------------|----------------------------|------------------|------------------|
-| Elderly units (assisted) | 100    | 60                  | 27                         | 6,000            | 2,700            |
-| Elderly units (independent) | 100    | 85                  | 38                         | 8,500            | 3,800            |
-| Starter units          | 200    | 85                  | 38                         | 17,000           | 7,600            |
-| Student studios        | 200    | 25                  | 12                         | 2,500            | 1,200            |
-| 4 students shared      | 26     | 121                 | 54                         | 1,573            | 702              |
-| 8 students shared      | 12      | 240                 | 107                        | 1,440            | 642              |
-| Elderly care           | 1      | 850                 | 378                        | 850              | 378              |
-| Gym                    | 1      | 140                 | 63                         | 140              | 63               |
-| Restaurant             | 1      | 140                 | 63                         | 140              | 63               |
-| Laundry room             | 1      | 100                 | 45                         | 100              | 45               |
-| Car park               | 1      | 10,200              | 4,534                      | 10,200           | 4,534            |
-| Bicycle park           | 1      | 852                 | 379                        | 852              | 379              |
-| Main hall + mailboxes  | 1      | >100                | >45                        | >100             | >45              |
-| **Total**              | -      | -                   | -                          | >49,396          | >22,151          |
+| Elderly units (assisted) | 100    | 60                | 19                         | 6,000            | 1,900            |
+| Elderly units (independent) | 100    | 85             | 24                         | 8,500            | 2,400            |
+| Starter units          | 200    | 85                  | 24                         | 17,000           | 4,800            |
+| Student studios        | 200    | 25                  | 8                          | 5,000            | 1,600            |
+| 4 students shared      | 26     | 121                 | 37                         | 3,146            | 962              |
+| 8 students shared      | 12     | 240                 | 74                         | 2,880            | 888              |
+| Elderly care           | 1      | 850                 | 262                        | 850              | 262              |
+| Gym                    | 1      | 140                 | 43                         | 140              | 43               |
+| Restaurant             | 1      | 140                 | 43                         | 140              | 43               |
+| Laundry room           | 1      | 100                 | 31                         | 100              | 31               |
+| Car park               | 1      | 10,200              | 3,148                      | 10,200           | 3,148            |
+| Bicycle park           | 1      | 852                 | 263                        | 852              | 263              |
+| Main hall + mailboxes  | 1      | >100                | >31                        | >100             | >31              |
+| **Total**              | -      | -                   | -                          | >54,908          | >16,371          |
 
 ## Product
 
