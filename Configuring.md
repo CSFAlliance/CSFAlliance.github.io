@@ -15,7 +15,7 @@ With the created set of program requirements, we created a diagram to specify th
 Each function will need to be linked to another function. Some are strongly coupled, while others are less strongly coupled. To gain a comprehensive overview, we have listed the functions. Each function is assessed in relation to other functions through weights ranging from 0 (lowest weight) to 1 (highest weight). HALLOOOOOOOO
 
 <div align="center">
-  <p>Table 2.1: REL-chart</p>
+  <em>Table 2.1: REL-chart</em>
   <img src="assets/RelChart.png" alt="RelChart">
 </div>
 
@@ -26,7 +26,7 @@ Finally, it seemed like a good idea to have a courtyard on the ground level. A c
 Then we also created another rel-chart of what features should meet based on various analyses.
 
 <div align="center">
-  <p>Table 2.2: REL-chart extension</p>
+  <em>Table 2.2: REL-chart extension</em>
   <img src="assets/Relchart2.png" alt="Relchart2">
 </div>
 
@@ -50,12 +50,12 @@ For the algorithmic design of the building. Small voxels had to be created. Thes
 
 <div align="center">
   <img src="https://github.com/CSFAlliance/csfalliance.github.io/assets/93916885/423155a7-9e08-46ef-bafa-203f8e75ff69" alt="Wheelchair 180 degrees turn with one wheel at a fixed point">
-  <p>Figure 2.1: Wheelchair 180 degrees turn with one wheel at a fixed point</p>
+  <em>Figure 2.1: Wheelchair 180 degrees turn with one wheel at a fixed point</em>
 </div>
 
 <div align="center">
   <img src="https://github.com/CSFAlliance/csfalliance.github.io/assets/93916885/c659e5df-4efd-4539-b298-9f37dfe98c6a" alt="Person height and arm span">
-  <p>Figure 2.2: Person height and arm span</p>
+  <em>Figure 2.2: Person height and arm span</em>
 </div>
 
 source: prof. ir. Haak, A.J.H. & ir. Leever-van der Burgh, D., "De Menselijke Maat", Delftse universitaire pers (1980)
