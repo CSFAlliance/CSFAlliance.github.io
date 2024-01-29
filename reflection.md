@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Configuring"
-permalink: /Configuring
+title: "Reflection"
+permalink: /Reflection
 remote_theme: pages-themes/cayman@v0.2.0
 ---
 
