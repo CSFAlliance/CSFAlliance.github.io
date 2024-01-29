@@ -42,7 +42,10 @@ For certain functions, it is also vital that they are situated close to the grou
 
 To facilitate the process as effectively as possible, we have maintained a flowchart outlining the progression of the process leading to the creation of the building. Various components need to be investigated. Through the use of the flowchart, it becomes clearer for us to determine the approach and make progress in the project. 
 
-![Flowchart](assets/Flowchart.jpg)
+<div align="center">
+  <img src="assets/Flowchart.jpg" alt="Flowchart">
+  <p><em>Figure 2.1: Flowchart</em></p>
+</div>
 
 ## Voxel Cloud
 The first steps for creating a parametric design in Houdini involved creating a voxel cloud. We needed the dimensions and outline of the site we were building on. Firstly we had to import the neighbouring building of Rotterdam. This was realised using importing tiles from the bag3d website. Now we carefully traced the outline of the site by using the neighbouring buildings. The maximal building height the municipality of Rotterdam stated for our area was 200 meters! So we did not limit ourself, and made our envelope 200 meters high.
@@ -50,7 +53,7 @@ The first steps for creating a parametric design in Houdini involved creating a 
 
 To be able to reason about this envelope in detail, we need to subdivide the envelope in voxels. These voxels indicate the internal volumes of the generated building. The voxel size has to be chosen wisely to prevent creating awkward or unusable spaces. The height of a voxel is based on the height of one floor of the building. Because of "Bouwbesluit", the ceiling of newbuild housing space has to lie at least 2.6 meters high.
 
-First we thought about making the voxels 1,5 x 4 x 1,5 m (WxLxH). It was important for us to adhere to the standards of Neufert, therefore we made the horizontal dimensions multiple of 0,3 m. This is very useful for designing modular spaces of 0,3 m. 1,5 m was a good minimum we chose, since the smallest possible function was a hallway. This area is based on the minimum area needed for a wheelchair to turn ([Figure 1](#wheelchair-turn)) and the standard wingspan of a person ([Figure 2](#Person-size)). However, we did not account for the structal requirements of each voxel, since there needs to be a wall and or other support beams in each voxel. Therefore we raised the horizontal dimensions of the voxel to 1,8 x 1,8 m.
+First we thought about making the voxels 1,5 x 4 x 1,5 m (WxLxH). It was important for us to adhere to the standards of Neufert, therefore we made the horizontal dimensions multiple of 0,3 m. This is very useful for designing modular spaces of 0,3 m. 1,5 m was a good minimum we chose, since the smallest possible function was a hallway. This area is based on the minimum area needed for a wheelchair to turn ([Figure 2.2](#wheelchair-turn)) and the standard wingspan of a person ([Figure 2.3](#Person-size)). However, we did not account for the structal requirements of each voxel, since there needs to be a wall and or other support beams in each voxel. Therefore we raised the horizontal dimensions of the voxel to 1,8 x 1,8 m.
 
 The height of 4 m was chosen using a wet thumb and looking at the highrise building EWI. But after realising 4 m was way too high we settled for 3,2 m: 2,5 m headspace and 70 cm for the floors and ventilation systems. This resulted in a voxel size of 1.8x1.8x3.2 (WxLxH) m^3.
   
@@ -58,26 +61,14 @@ The height of 4 m was chosen using a wet thumb and looking at the highrise build
 <div style="display: flex; justify-content: center;">
   <div style="text-align: center; margin-right: 10px; max-width: 50%;">
     <img src="https://github.com/CSFAlliance/csfalliance.github.io/assets/93916885/423155a7-9e08-46ef-bafa-203f8e75ff69" alt="Wheelchair 180 degrees turn with one wheel at a fixed point" style="height: 300px;">
-    <p style="margin-top: 10px;"><em>Figure 2.1: Wheelchair 180 degrees turn with one wheel at a fixed point</em></p>
+    <p style="margin-top: 10px;"><em>Figure 2.2: Wheelchair 180 degrees turn with one wheel at a fixed point</em></p>
   </div>
   <div style="text-align: center; max-width: 50%;">
     <img src="https://github.com/CSFAlliance/csfalliance.github.io/assets/93916885/c659e5df-4efd-4539-b298-9f37dfe98c6a" alt="Person height and arm span" style="height: 300px;">
-    <p style="margin-top: 10px;"><em>Figure 2.2: Person height and arm span</em></p>
+    <p style="margin-top: 10px;"><em>Figure 2.3: Person height and arm span</em></p>
   </div>
 </div>
 
-<!--
-<div align="center">
-  <img src="https://github.com/CSFAlliance/csfalliance.github.io/assets/93916885/423155a7-9e08-46ef-bafa-203f8e75ff69" alt="Wheelchair 180 degrees turn with one wheel at a fixed point">
-  <p>
-  <em>Figure 2.1: Wheelchair 180 degrees turn with one wheel at a fixed point</em></p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/CSFAlliance/csfalliance.github.io/assets/93916885/c659e5df-4efd-4539-b298-9f37dfe98c6a" alt="Person height and arm span">
-  <p><em>Figure 2.2: Person height and arm span</em></p>
-</div>
--->
 source: prof. ir. Haak, A.J.H. & ir. Leever-van der Burgh, D., "De Menselijke Maat", Delftse universitaire pers (1980)
 
 
