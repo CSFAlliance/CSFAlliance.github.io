@@ -37,7 +37,6 @@ Lastly, we were unable to conduct an analysis to determine the optimal location 
   <p><em>Figure 4.4: Plattegrond</em></p>
 </div>
 
-
 ## Facades
 
 It aimed to create an interesting and appealing structure that radiates unity and creates a comfortable environment. 
