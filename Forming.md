@@ -21,11 +21,11 @@ In the middle of the floor plan, there is also a large outdoor space for the ent
 
 <div style="display: flex; justify-content: center;">
   <div style="text-align: center; margin-right: 10px; max-width: 50%;">
-    <img src="sfeer1.jpg" alt="Sfeer1" style="height: 300px;">
+    <img src="sfeer1.jpg" alt="Sfeer1" style="height: 200px;">
     <p style="margin-top: 10px;"><em>Figure 4.3: Sfeer1</em></p>
   </div>
   <div style="text-align: center; max-width: 50%;">
-    <img src="sfeer2.jpg" alt="Sfeer2" style="height: 300px;">
+    <img src="sfeer2.jpg" alt="Sfeer2" style="height: 200px;">
     <p style="margin-top: 10px;"><em>Figure 4.4: Sfeer2</em></p>
   </div>
 </div>
