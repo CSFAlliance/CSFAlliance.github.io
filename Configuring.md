@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Configuring"
-permalink: /Configuring
+permalink: /configuring
 remote_theme: pages-themes/cayman@v0.2.0
 ---
 
@@ -44,9 +44,16 @@ To facilitate the process as effectively as possible, we have maintained a flowc
 
 ![Flowchart](assets/Flowchart.jpg)
 
-## Determining voxel size 
+## Voxel Cloud
+The first steps for creating a parametric design in Houdini involved creating a voxel cloud. We needed the dimensions and outline of the site we were building on. Firstly we had to import the neighbouring building of Rotterdam. This was realised using importing tiles from the bag3d website. Now we carefully traced the outline of the site by using the neighbouring buildings. The maximal building height the municipality of Rotterdam stated for our area was 200 meters! So we did not limit ourself, and made our envelope 200 meters high.
+(afbeelding envelope)
 
-For the algorithmic design of the building. Small voxels had to be created. These voxels indicate the internal volumes of the generated building. The voxel size has to be chosen wisely to prevent creating awkward or unusable spaces. The height of a voxel is based on the height of one floor of the building. Because of "Bouwbesluit", the ceiling of newbuild housing space has to lie at 2.6 meters high. To design a nice buffer for ceiling/floor thickness, it was decided to put the height of the voxel at 3.2 meters. The area of the voxel should be square since that's the nicest to work with. This area is based on the minimum area needed for a wheelchair to turn ([Figure 1](#wheelchair-turn)) and the standard wingspan of a person ([Figure 2](#Person-size)). This resulted in a voxel size of 1.8x1.8x3.2 (WxLxH) m^3.
+To be able to reason about this envelope in detail, we need to subdivide the envelope in voxels. These voxels indicate the internal volumes of the generated building. The voxel size has to be chosen wisely to prevent creating awkward or unusable spaces. The height of a voxel is based on the height of one floor of the building. Because of "Bouwbesluit", the ceiling of newbuild housing space has to lie at least 2.6 meters high.
+
+First we thought about making the voxels 1,5 x 4 x 1,5 m (WxLxH). It was important for us to adhere to the standards of Neufert, therefore we made the horizontal dimensions multiple of 0,3 m. This is very useful for designing modular spaces of 0,3 m. 1,5 m was a good minimum we chose, since the smallest possible function was a hallway. This area is based on the minimum area needed for a wheelchair to turn ([Figure 1](#wheelchair-turn)) and the standard wingspan of a person ([Figure 2](#Person-size)). However, we did not account for the structal requirements of each voxel, since there needs to be a wall and or other support beams in each voxel. Therefore we raised the horizontal dimensions of the voxel to 1,8 x 1,8 m.
+
+The height of 4 m was chosen using a wet thumb and looking at the highrise building EWI. But after realising 4 m was way too high we settled for 3,2 m: 2,5 m headspace and 70 cm for the floors and ventilation systems. This resulted in a voxel size of 1.8x1.8x3.2 (WxLxH) m^3.
+  
 
 <div style="display: flex; justify-content: center;">
   <div style="text-align: center; margin-right: 10px; max-width: 50%;">
@@ -73,12 +80,7 @@ For the algorithmic design of the building. Small voxels had to be created. Thes
 -->
 source: prof. ir. Haak, A.J.H. & ir. Leever-van der Burgh, D., "De Menselijke Maat", Delftse universitaire pers (1980)
 
-## Voxellizing 
 
-The concluding step in the configuration process involves utilizing the specified voxel size to generate a lattice derived from the mandatory envelope. We generated the surrounding city of Rotterdam into the area to determine how big the envelope could be. 
-
-![Voxel1](assets/voxel1.jpg)
-![Voxel2](assets/Voxel2.jpg)
 
 
 
