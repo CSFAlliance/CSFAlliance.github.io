@@ -13,7 +13,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 With the created set of program requirements we created a diagram to specify the preferences and the preferred spatial qualities.
 
 Each function will need to be linked to another function. Some are strongly coupled, while others are less strongly coupled. To gain a comprehensive overview, we have listed the functions. Each function is assessed in relation to other functions through weights ranging from 0 (lowest weight) to 1 (highest weight).
-![RelChart](RelChart.png)
+Table 1: ![RelChart](RelChart.png)
 
 For the parking spaces, bike spaces, and the restaurant, it was crucial that these be located close to the street and the beer garden. These functions must remain easily accessible for both the building residents and visitors. 
 Furthermore, it is paramount that the elderly units are situated near the care centre for the elderly and the gym. Seniors require physical activity and should have access to assistance within a short distance. Conversely, it is beneficial for physiotherapists and nurses to be close to the homes of the elderly to provide optimal support. 
