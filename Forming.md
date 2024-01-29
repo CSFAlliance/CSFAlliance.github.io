@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Forming"
-permalink: /Forming
+permalink: /forming
 remote_theme: pages-themes/cayman@v0.2.0
 ---
 
@@ -50,6 +50,9 @@ For the area, it's important to have nice green areas. The little amount of gree
   <p><em>Figure 4.4: Floor and roof tiles</em></p>
 </div>
 
+## Placing the correct tiles using houdini
+
+### Corners
 
 
 
