@@ -32,7 +32,7 @@ Also, the design process accounted for factors such as privacy and the maximizin
 For the lower floors, the facades had to be welcoming and open. The design of the facades on these floors uses big, rectangular windows with a triangular cut-out. This creates a triangular wave across the floor.
 
 <div align="center">
-  <img src="assets/lowerFacades.jpeg" alt="lower facades" style="hight: 250px;">
+  <img src="assets/lowerFacades.jpeg" alt="lower facades" style="width: 150px;">
   <p><em>Figure 4.3: Facades with trianglular wave</em></p>
 </div>
 
