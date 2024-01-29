@@ -21,15 +21,10 @@ Also, the design process accounted for factors such as privacy and the maximizin
 ### Tile set
 
 <div align="center">
-  <img src="assets/Facadetileset,jpeg" alt="Tile set">
-  <br>
-  <em>Figure 4.1: Tile set</em>
+  <img src="assets/Facadetileset.jpeg" alt="Tiles set">
+  <p>Figure 4.1: Tiles set</p>
 </div>
 
-<div align="center">
-  <img src="https://github.com/CSFAlliance/csfalliance.github.io/assets/Facadetileset.jpeg" alt="Tile set">
-  <p>Figure 4.1: Tile set</p>
-</div>
 
 For the lower floors, the facades had to be welcoming and open. The design of the facades on these floors uses big, rectangular windows with a triangular cut-out. This creates a triangular wave across the floor.
 
