@@ -36,10 +36,10 @@ Lastly, we were unable to conduct an analysis to determine the optimal location 
   <img src="assets/plattegrond.png" alt="Plattegrond" style="width: 350px;>
   <p><em>Figure 4.4: Plattegrond</em></p>
 </div>
-
+    
 ## Facades
 
-It aimed to create an interesting and appealing structure that radiates unity and creates a comfortable environment. 
+It was aimed for to create an interesting and appealing structure that radiates unity and creates a comfortable environment. 
 This all needed to be included in the design, without losing  its functionality.
 
 Because of the location, the design faces some challenges, for example, noise from the trains and Biergarten, and optimizing sunlight. 
