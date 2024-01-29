@@ -55,6 +55,7 @@ In Figures 4.5 and 4.6, the full facade tile set is shown. It consists of 8 tile
   <img src="assets/Facadetileset.jpeg" alt="Tiles set" style="width: 350px;">
   <p><em>Figure 4.5: Tiles set</em></p>
 </div>
+
 <div align="center">
   <img src="assets/tilesAfterRender.jpg" alt="Tiles set after render" style="width: 350px;">
   <p><em>Figure 4.6: Tiles set after rendering</em></p>
