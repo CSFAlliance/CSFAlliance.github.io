@@ -27,7 +27,7 @@ Then we also created another rel-chart of what features should meet based on var
 
 <div align="center">
   <p><em>Table 2.2: REL-chart extension</em></p>
-  <img src="assets/Relchart2.png" alt="Relchart2" style="width: 500px;">
+  <img src="assets/Relchart2.png" alt="Relchart2" style="width: 350px;">
 </div>
 
 For all inhabited spaces (residences, care center, gym, and restaurant), we have stipulated that sunlight should be able to enter, and the same applies to the sky view factor. It is noteworthy that the elderly units have high weights (specifically 1) for these aspects because it has been proven that seniors often recover more quickly when there is something to observe, and they can see/hear nature. It is important to pay special attention to the view and sunlight for the elderly. While preferences for the other units also exist, they are comparatively less critical. 
