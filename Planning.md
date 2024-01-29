@@ -16,7 +16,6 @@ The goal of this project is to design a building at the Schieblock, located in R
 4. Sustainable 
 5. accessible
 
-
 In addition, we want to adhere to the following rules: 
 - Create a space where different residents can come together.  
 - The building is not only a place to live but also a place to find relaxation in the common areas or with other residents 
@@ -34,12 +33,12 @@ Multi dwellings must be separated from the elderly units and the starter units b
 
 The areas of the units and shared spaces are determined as follows:
 
-***Studio's*** 
-	-ca. 25 m2 (source: 24m2)
+***Studio's:*** 
+-ca. 25 m2 (source: 24m2)
   
-***Multi dwellings***
-	-ca. 15 m2 personal rooms (source: 18m2) 
-	-ca. 7 m2 shared space per person, with a minimum of 20m2 and a maximum of 40m2
+***Multi dwellings:***
+-ca. 15 m2 personal rooms (source: 18m2) 
+-ca. 7 m2 shared space per person, with a minimum of 20m2 and a maximum of 40m2
 
 **200 elderly units:**
 
