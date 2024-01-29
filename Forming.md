@@ -21,7 +21,7 @@ Also, the design process accounted for factors such as privacy and the maximizin
 ### Tile set
 
 <div align="center">
-  ![Tile set](https://github.com/CSFAlliance/csfalliance.github.io/assets/93916885/978f32f0-2d9b-4c16-8e7f-cced09551ea9 "Tile set")
+  ![Tile set](assets/Facade tile set "Tile set")
   <br>
   <em>Figure 4.1: Tile set</em>
 </div>
