@@ -64,7 +64,7 @@ In Figures 4.5 and 4.6, the full facade tile set is shown. It consists of 8 tile
 For the lower floors, the facades had to be welcoming and open. The design of the facades on these floors uses big, rectangular windows with a triangular cut-out. This is the third tile shown in Figures 4.5 and 4.6. This creates a triangular wave across the floor as shown in Figure 4.7.
 
 <div style="text-align: center;">
-  <img src="assets/lowerFacades.jpeg" alt="lower facades" style="width: 200px;">
+  <img src="assets/lowerFacades.jpeg" alt="lower facades" style="width: 250px;">
   <p><em>Figure 4.7: Facades with trianglular wave</em></p>
 </div>
 
@@ -76,7 +76,7 @@ In Figures 4.5 and 4.6, there are two more tiles shown, the 4th and the last til
 For the area, it's important to have nice green areas. The little amount of greenery that will be lost in the construction of the building has to be made up for. Better would be better if more greenery were placed than initially was placed at the location. Therefore, it was chosen to use green roofs. The tile corresponding to the roof is shown on the right in Figure 4.8. In this figure, also the floor tile is shown, left of the roof tile.
 
 <div style="text-align: center;">
-  <img src="assets/FloorAndRooftile.png" alt="lower facades" style="width: 300px;">
+  <img src="assets/FloorAndRooftile.png" alt="lower facades" style="width: 350px;">
   <p><em>Figure 4.8: Floor and roof tiles</em></p>
 </div>
 
