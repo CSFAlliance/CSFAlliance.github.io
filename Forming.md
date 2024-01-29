@@ -58,17 +58,20 @@ Since the tiles should have the same dimensions as the voxels, we started by bui
 The floors were placed by copying the floor tiles onto the primitives and rotating them according to the voxel rotation. The ceilings were done in a similar manner except their normal direction was reversed. The roof tiles have been placed by manually selecting the upper most floors. This was not done parametrically and is thus a form of post processing. This was because of the design decision to include a walkable area in the hole of the building.
 
 ![Floor, ceiling and roof](assets/Vloerplafonddak.png)
+
 Floor, ceiling and roof
 
 The facades facing north and east were selected by their normals, and this selection was reversed to get the facades facing south and west. Placing balconies was done by placing one every 5 tiles. The lowest 4 floors were each put in a different group based on their height. Then each floor got a different tile to use. The emergency exits were placed manually.
 
 ![Finished Building](assets/GeheleGebouw.png)
+
 Finished Building
 
 ### Corners
 If you look closely you might spot a problem with these tile placements. That is, tiles placed on inward corners clash with eachother (see image). An attempted solution was for each occupied voxel keeping track of neighbouring voxels, to determine a neighbour count. This however was not enough to determine if an inward corner has been placed, only for outward corners. A better solution would have been to for each unoccupied voxel, determine if they have 2 or more occupied neighbours. If so, replace the tiles with the inward corner tile.
 
 ![Clashing Corners](assets/botsendeTiles.png)
+
 Clashing Corners
 
 
