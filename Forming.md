@@ -24,6 +24,10 @@ Also, the design process accounted for factors such as privacy and the maximizin
   <img src="assets/Facadetileset.jpeg" alt="Tiles set">
   <em>Figure 4.1: Tiles set</em>
 </div>
+<div align="center">
+  <img src="assets/tilesAfterRender" alt="Tiles set">
+  <em>Figure 4.2: Tiles set after rendering</em>
+</div>
 
 For the lower floors, the facades had to be welcoming and open. The design of the facades on these floors uses big, rectangular windows with a triangular cut-out. This creates a triangular wave across the floor.
 
