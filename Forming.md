@@ -21,13 +21,13 @@ Also, the design process accounted for factors such as privacy and the maximizin
 ### Tile set
 
 <div align="center">
-  <img src="assets/Facade tile set,jpeg" alt="Tile set">
+  <img src="assets/Facadetileset,jpeg" alt="Tile set">
   <br>
   <em>Figure 4.1: Tile set</em>
 </div>
 
 <div align="center">
-  <img src="https://github.com/CSFAlliance/csfalliance.github.io/assets/Facade tile set.jpeg" alt="Tile set">
+  <img src="https://github.com/CSFAlliance/csfalliance.github.io/assets/Facadetileset.jpeg" alt="Tile set">
   <p>Figure 4.1: Tile set</p>
 </div>
 
