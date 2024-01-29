@@ -22,7 +22,7 @@ Also, the design process accounted for factors such as privacy and the maximizin
 
 <div align="center">
   <img src="assets/Facadetileset.jpeg" alt="Tiles set">
-  <p>Figure 4.1: Tiles set</p>
+  <em>Figure 4.1: Tiles set</em>
 </div>
 
 
