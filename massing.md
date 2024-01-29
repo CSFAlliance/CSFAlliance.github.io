@@ -49,6 +49,7 @@ Now came the point of using the previous analyses in placing the functions. The 
 ### Weighing Points
 First we wanted for each point to create scores for each function. This was accomplished using a multi objective optimization algorithm created by Shervin Azadi & Pirouz Nourian. This algorithm used the analysed voxel values and weighings of each function as input. The result a list of points that contained a score for each function.
 (afbeelding geometry spreadsheet)
+![Each point with 9 function scores](assets/weighing.png)
 
 ### Growing Algorithm
 Now after having a score for each point, we can use a growing algorithm for placing the best possible function in each voxel. This algorithm can be, with a shortcut trough the turn, described as follows:
