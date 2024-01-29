@@ -10,7 +10,7 @@ This chapter describes how we translated the concepts and diagrams into a parame
 
 ![Algorithm flowchart](assets/algorithmFlowchart.png)
 
-Algorithm flowchart
+Algorithm flowchart.
 
 ## Analyses
 Now that we have an envelope, we want to inhabit this envelope with different functions. But how to decide where to place each function? This is done by thoroughly analysing the current envelope. Is there enough sunlight in my house? How much noise does my restaurant have to cope with? These are all questions inhabitants might have. After doing the following analyses we can answer all these questions, and therefore optimize the placements of every function.
@@ -24,25 +24,25 @@ Now was the task of calculating sunlight obstruction by our voxels. First step w
 
 ![A single vector with the direcion of the sun, representing 1 sun hour](assets/sundirection.png)
 
-A single vector with the direcion of the sun, representing 1 sun hour
+A single vector with the direcion of the sun, representing 1 sun hour.
 
 
 ![The voxels that cast too much shadow](assets/shadowcasting.png)
 
-The voxels that cast too much shadow
+The voxels that cast too much shadow.
 
 ### Sunlight Analysis
 Additionally, in the shadowcasting directory, we also calculated the minimum amount of direct sunlight per day each voxel got. This was done by the same principle, but reversing the direction of each vector. Since "sunpath" has hours and days encoded in it, we could count the direct sunlight per day for each voxel. We noted the voxels that did not have a minimum of 2 hours of sunlight each day, and made sure that there would not be housing allocated there. But instead functions like bike parking.
 
 ![The voxels that do not have enough sunlight](assets/notenoughsun.png)
 
-The voxels that do not have enough sunlight
+The voxels that do not have enough sunlight.
 
 After that we calculated for each point the average amount of direct sunlight it would recieve over the year. This was formatted to uniformly fit 1 to 0. 1 being the voxel with the biggest amount of average sun per day, and 0 being the least. This way of formatting is used for the best results when weighing points later in the process.
 
 ![The average amount of sunlight](assets/averagesunlight.png)
 
-The average amount of sunlight
+The average amount of sunlight.
 
 ### Daylight Analysis
 A daylight analysis was made to calculate which voxels got the most daylight. This depends on 2 things. Firstly how much access a voxel has to the sky. And secondly how far the voxel is situated inside the building itself.
@@ -51,20 +51,20 @@ For calculating the first thing we first made a sky to have directions for vecto
 
 ![The sky geometry](assets/sky.png)
 
-The sky geometry
+The sky geometry.
 
 The last part of the daylight analysis was calculating how far inside the building each voxel was. Light has to travel from the facade to each voxel, and the intensity of this light diminishes after bouncing against the building interior. This was modelled by calculating the distance from the facade of the building to each point. This was done by firstly creating a shell of the envelope, using the fuse and clean SOP. Then using the distance to geometry SOP we got a shortest distance to the facade for each point. We fitted these distances in between 1 and 0. We then scaled the first daylight calculations by these fitted distances. After that we again formatted the analysis outcomes to fit uniformly in between 1 and 0, to be used by the weighing of points.
 
 ![Daylight analysis](assets/daylight.png)
 
-Daylight analysis
+Daylight analysis.
 
 ### Closeness Ground Analysis
 The last analysis done was a calculation of how close each voxel was to the ground. This information is useful to know because bike parking spaces you would want to be on the ground, but starter unit housing is fine being placed high up in the sky. The calculation was done by fitting the height of each point uniformly in between 1 and 0, the same as we did the previous analyses.
 
 ![Closeness to the ground](assets/ground.png)
 
-Closeness to the ground
+Closeness to the ground.
 
 ### Noise Analysis
 This analysis was not implemeted, but would have been very useful to us. Our recommendation is to calculate the distance between each point and sources of noise by using a "distance to geometry" SOP. These origins are the train tracks, the loud nightclubs and the busy streets. This analysis would have been used to place elderly homes further away from sources of noise. We did however minimize noise in other ways described in the forming chapter.
@@ -77,7 +77,7 @@ First we wanted for each point to create scores for each function. This was acco
 
 ![Each point with 9 function scores](assets/weighing.png)
 
-Each point with 9 function scores
+Each point with 9 function scores.
 
 ### Growing Algorithm
 Now after having a score for each point, we can use a growing algorithm for placing the best possible function in each voxel. This algorithm can be, with a shortcut trough the turn, described as follows:
@@ -96,12 +96,12 @@ Take a certain function. We first calculate if there is enough area already by c
 
 ![The growing process](assets/growing.gif)
 
-The growing process
+The growing process.
 
 
 ![The growing outcome](assets/outcome.png)
 
-The growing outcome
+The growing outcome.
 
 ### Underground Parking
 After researching the underground environment of Rotterdam, we found out that we had a lot of room to dig below the surface in our site. As to not complicate the design more than it needs to we decided to place the car parking function underground. This is visualised by the blue box.
@@ -109,5 +109,5 @@ After researching the underground environment of Rotterdam, we found out that we
 
 ![The underground parking garage](assets/parking.png)
 
-The underground parking garage
+The underground parking garage.
 
