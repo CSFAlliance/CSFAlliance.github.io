@@ -9,7 +9,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 This chapter describes how we translated the concepts and diagrams into a parametric building program using Houdini. In the last chapter reported on how the original envelope was created. Now we are gonna talk about how different analyses were done to improve the envelope. The last part of the massing chapter talks about allocating functions to their analysed locations. The following flowchart can be used as reference for the algoritm in Houdini.
 
 <div style="text-align: center;">
-  <img src="assets/algorithmFlowchart.png" alt="Algorithm flowchart" style="width: 350px;">
+  <img src="assets/algorithmFlowchart.png" alt="Algorithm flowchart" style="width: 700px;">
   <p><em>Figure 3.1: Algorithm flowchart</em></p>
 </div>
 
@@ -24,7 +24,7 @@ First we needed the direction of the sun for every hour thoughout the whole year
 Now was the task of calculating sunlight obstruction by our voxels. First step was building vectors with the directions of the sun. The length of each vector was 150 meters as per building codes. (see image). For every point in our envelope we shot each vector from that point. For each vector that hit some building from the "context", Rotterdam, we added 1 to a block counter. Then we shaped the envelope by deleting each point that has more than 700 blocking vectors.
 
 <div style="text-align: center;">
-  <img src="assets/sundirection.png" alt="A single vector with the direction of the sun, representing 1 sun hour" style="width: 350px;">
+  <img src="assets/sundirection.png" alt="A single vector with the direction of the sun, representing 1 sun hour" style="width: 400px;">
   <p><em>Figure 3.2: A single vector with the direction of the sun, representing 1 sun hour</em></p>
 </div>
 
