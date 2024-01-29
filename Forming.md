@@ -8,7 +8,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 
 # Forming 
 ## Floorplan
-###
+
 The floor plan is based on the grid of the voxel format (specifically 1.8m x 1.8m x 3.2m). Using this grid ensures accessibility for everyone, including wheelchair users. Additionally, using two voxels results in a perfect dimension for the width or length of a bedroom with a double bed. Having said that, a floor plan for the 3rd floor was generated through region growing with functions. When arranging the 3rd floor, consideration was given to the presence of functions and the approximate size of these regions.
 Subsequently, the pattern of the voxel formation was adopted and redrawn in Revit. In creating the floor plans, particular attention was paid to how all the functions come together in harmony. For the 3rd floor, the focus was on elderly units, shared housing, laundry service, and the gym. In Houdini, colors were used to illustrate how the functions are interconnected.
 
@@ -31,7 +31,7 @@ In the middle of the floor plan, there is also a large outdoor space for the ent
 
 Lastly, we were unable to conduct an analysis to determine the optimal location for a shaft, elevators, and stairwell. However, we managed to place them in advantageous positions using our knowledge of construction and architecture. In the east wing, a central stairwell with two spiral staircases has been positioned, serving as an additional secure escape route. The same applies to the west facade, where three elevators have been installed due to the larger surface area compared to the east wing. At the entrance of the west wing, two elevators with shafts have been installed, accompanied by two spiral staircases. Furthermore, an additional elevator has been added deeper into the west wing, primarily because the distance to the centre of the wing is considerable from the furthest point. This would make it challenging to meet the desired requirements of the building code for evacuation. The inclusion of an extra elevator, shaft, and stairwell with a spiral staircase significantly enhances the safety of evacuation from the surrounding residences in this wing.
 
-![Plattegrond](plattegrond.png)
+![Plattegrond](assets/plattegrond.png)
 ## Facades
 
 It aimed to create an interesting and appealing structure that radiates unity and creates a comfortable environment. 
