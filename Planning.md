@@ -117,17 +117,17 @@ The square meters in the table are based on average values for housing/restauran
 ## Product
 
 ### Bubble diagram
-The bubble diagram shows which spaces are connected, and how important these connections are. Through the different colors and numbers, it can be read which connection is more important between certain spaces.
+The bubble diagram shows which spaces are connected, and how important these connections are. Through the different colours and numbers, it can be read which connection is more important between certain spaces.
 
-<div align="center">
-  <img src="assets/metrodiagram.jpeg" alt="Metro Diagram">
+<div style="text-align: center">
+  <img src="assets/metrodiagram.jpeg" alt="Metro Diagram" style="width: 500px">
   <p><em>Figure 1: Metro Diagram</em></p>
 </div>
 
 ### Exterior context relationships
 
-<div align="center">
-  <img src="assets/Externalfactors.png" alt="External Factors">
+<div style="text-align: center">
+  <img src="assets/Externalfactors.png" alt="External Factors" style="width: 500px">
   <p><em>Figure 2: External Factors</em></p>
 </div>
 
