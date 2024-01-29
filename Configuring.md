@@ -14,7 +14,7 @@ With the created set of program requirements we created a diagram to specify the
 
 Each function will need to be linked to another function. Some are strongly coupled, while others are less strongly coupled. To gain a comprehensive overview, we have listed the functions. Each function is assessed in relation to other functions through weights ranging from 0 (lowest weight) to 1 (highest weight).
 
-Table 3.1: REL-chart
+Table 2.1: REL-chart
 
 ![RelChart](RelChart.png)
 
@@ -24,7 +24,7 @@ For all units in the building, it is also important that they can easily reach t
 Finally, it seemed like a good idea to have a courtyard on the ground level. A communal space where different people can come together, including residents of the building, visitors, and individuals from the surrounding area. 
 Then we also created another rel-chart of what features should meet based on various analyses.
 
-Table 3.2: REL-chart extention
+Table 2.2: REL-chart extention
 
 ![Relchart2](Relchart2.png)
 
@@ -48,11 +48,11 @@ For the algorithmic design of the building. Small voxels had to be created. Thes
 
 ![Wheelchair 180 degrees turn with one wheel at a fixed point](https://github.com/CSFAlliance/csfalliance.github.io/assets/93916885/423155a7-9e08-46ef-bafa-203f8e75ff69 "Wheelchair turn")
 
-Figure 3.1: Wheelchair 180 degrees turn with one wheel at a fixed point
+Figure 2.1: Wheelchair 180 degrees turn with one wheel at a fixed point
 
 ![Person height and arm span](https://github.com/CSFAlliance/csfalliance.github.io/assets/93916885/c659e5df-4efd-4539-b298-9f37dfe98c6a "Person size")
 
-Figure 3.2: Person height and arm span
+Figure 2.2: Person height and arm span
 
 source: prof. ir. Haak, A.J.H. & ir. Leever-van der Burgh, D., "De Menselijke Maat", Delftse universitaire pers (1980)
 
