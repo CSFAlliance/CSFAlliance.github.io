@@ -21,11 +21,15 @@ Also, the design process accounted for factors such as privacy and the maximizin
 ### Tile set
 
 <div align="center">
-  ![Tile set](assets/Facade tile set "Tile set")
+  <img src="assets/Facade tile set" alt="Tile set">
   <br>
   <em>Figure 4.1: Tile set</em>
 </div>
 
+<div align="center">
+  <img src="https://github.com/CSFAlliance/csfalliance.github.io/assets/93916885/423155a7-9e08-46ef-bafa-203f8e75ff69" alt="Wheelchair 180 degrees turn with one wheel at a fixed point">
+  <p>Figure 2.1: Wheelchair 180 degrees turn with one wheel at a fixed point</p>
+</div>
 
 For the lower floors, the facades had to be welcoming and open. The design of the facades on these floors uses big, rectangular windows with a triangular cut-out. This creates a triangular wave across the floor.
 
