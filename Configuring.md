@@ -50,7 +50,8 @@ For the algorithmic design of the building. Small voxels had to be created. Thes
 
 <div align="center">
   <img src="https://github.com/CSFAlliance/csfalliance.github.io/assets/93916885/423155a7-9e08-46ef-bafa-203f8e75ff69" alt="Wheelchair 180 degrees turn with one wheel at a fixed point">
-  <em>Figure 2.1: Wheelchair 180 degrees turn with one wheel at a fixed point</em>
+  <p>
+  <em>Figure 2.1: Wheelchair 180 degrees turn with one wheel at a fixed point</em></p>
 </div>
 
 <div align="center">
