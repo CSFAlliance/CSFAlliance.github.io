@@ -64,8 +64,8 @@ source: prof. ir. Haak, A.J.H. & ir. Leever-van der Burgh, D., "De Menselijke Ma
 
 The concluding step in the configuration process involves utilizing the specified voxel size to generate a lattice derived from the mandatory envelope. We generated the surrounding city of Rotterdam into the area to determine how big the envelope could be. 
 
-![Voxel1](voxel1.jpg)
-![Voxel2](Voxel2.jpg)
+![Voxel1](assets/voxel1.jpg)
+![Voxel2](assets/Voxel2.jpg)
 
 
 
