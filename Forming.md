@@ -21,7 +21,7 @@ Also, the design process accounted for factors such as privacy and the maximizin
 ### Tile set
 
 <div align="center">
-  <img src="assets/Facade tile set" alt="Tile set">
+  <img src="assets/Facade tile set,jpeg" alt="Tile set">
   <br>
   <em>Figure 4.1: Tile set</em>
 </div>
