@@ -19,7 +19,17 @@ The floor plans were initially drawn for the elderly units, followed by one for 
 
 In the middle of the floor plan, there is also a large outdoor space for the entire residential complex. Residents of this building can enjoy the beautiful garden, providing more companionship for the elderly when they go outside. On the east wing, there are additional elderly units and a shared unit. While there was an option to make this east wing exclusively for elderly units, mixing in a shared unit promotes more social interactions without being too conspicuous. Further consideration was given to adding a laundry room and a gym deeper into the east wing. This laundry room can be used by various residents of the building, specifically for those on this floor.
 
-![Sfeer1](sfeer1.jpg) ![Sfeer2](sfeer2.jpg)
+<div style="display: flex; justify-content: center;">
+  <div style="text-align: center; margin-right: 10px; max-width: 50%;">
+    <img src="sfeer1.jpg" alt="Sfeer1" style="height: 300px;">
+    <p style="margin-top: 10px;"><em>Figure 4.3: Sfeer1</em></p>
+  </div>
+  <div style="text-align: center; max-width: 50%;">
+    <img src="sfeer2.jpg" alt="Sfeer2" style="height: 300px;">
+    <p style="margin-top: 10px;"><em>Figure 4.4: Sfeer2</em></p>
+  </div>
+</div>
+
 
 Lastly, we were unable to conduct an analysis to determine the optimal location for a shaft, elevators, and stairwell. However, we managed to place them in advantageous positions using our knowledge of construction and architecture. In the east wing, a central stairwell with two spiral staircases has been positioned, serving as an additional secure escape route. The same applies to the west facade, where three elevators have been installed due to the larger surface area compared to the east wing. At the entrance of the west wing, two elevators with shafts have been installed, accompanied by two spiral staircases. Furthermore, an additional elevator has been added deeper into the west wing, primarily because the distance to the centre of the wing is considerable from the furthest point. This would make it challenging to meet the desired requirements of the building code for evacuation. The inclusion of an extra elevator, shaft, and stairwell with a spiral staircase significantly enhances the safety of evacuation from the surrounding residences in this wing.
 ![Plattegrond](plattegrond.png)
