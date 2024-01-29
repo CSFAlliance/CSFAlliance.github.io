@@ -10,13 +10,13 @@ remote_theme: pages-themes/cayman@v0.2.0
 
 ## REL-chart
 
-With the created set of program requirements we created a diagram to specify the preferences and the preferred spatial qualities.
+With the created set of program requirements, we created a diagram to specify the preferences and the preferred spatial qualities.
 
 Each function will need to be linked to another function. Some are strongly coupled, while others are less strongly coupled. To gain a comprehensive overview, we have listed the functions. Each function is assessed in relation to other functions through weights ranging from 0 (lowest weight) to 1 (highest weight).
 
 <div align="center">
   <p>Table 2.1: REL-chart</p>
-  <img src="RelChart.png" alt="RelChart">
+  <img src="assets/RelChart.png" alt="RelChart">
 </div>
 
 For the parking spaces, bike spaces, and the restaurant, it was crucial that these be located close to the street and the beer garden. These functions must remain easily accessible for both the building residents and visitors. 
