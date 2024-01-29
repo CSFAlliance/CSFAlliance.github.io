@@ -94,7 +94,7 @@ For bikes, it was calculated that 1,064 bike spots for residents are needed, wit
 The square meters in the table are based on average values for housing/restaurants/sports schools in Rotterdam/Netherlands. 
 
 <div align="center">
-  <p><em>Table 1: function area's</em></p>
+  <p><em>Table 1.1: function area's</em></p>
 </div>
 
 | Function               | Amount | Area per unit (m2) | Voxels per unit (3.24 m2) | Total Area (m2) | Voxels (3.24 m2) |
