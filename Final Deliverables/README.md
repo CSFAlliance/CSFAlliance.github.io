@@ -1,6 +1,6 @@
 This README describes where all the final deliverables are located in this repository.
 
-1. The final presentation is located in this directory.
+1. The final presentation is uploaded to brightspace.
 2. Posters are located in this directory.
 3. Renderings are located in this directory.
 4. The code book can be viewed [Here](https://csfalliance.github.io/codebook).
