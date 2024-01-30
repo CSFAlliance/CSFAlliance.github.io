@@ -1,7 +1,7 @@
 # Home
 This website was created for the  course Spatial Computing ( BK7083), as given at the faculty of Architecture and the Built Environment.
 
-The name of our group: CSF Alliance comes from, cyber sport fusion alliance. A connection between sport, programming and different studies. The name of our building: Vitality haven. Stands for a peaceful building where different residential ones come together. 
+The name of our group: CSF Alliance comes from, cyber sport fusion alliance. A connection between sport, programming and different studies. The name of our building: Vitality haven. It stands for a peaceful building where different residential ones come together. 
 
 The group consists of one bridging program student, one student from the HAN, built environment, one student from electrical engineering and one student from computer science. 
 
