@@ -13,8 +13,8 @@ The goal of this project is to design a building at the Schieblock, located in R
 1. Green
 2. Safe 
 3. Togetherness 
-4. Sustainable 
-5. accessible
+4. Sustainability 
+5. Accessibility
 
 In addition, we want to adhere to the following rules: 
 - Create a space where different residents can come together.  
